@@ -8,7 +8,7 @@ import com.pplab.songhua2.androidstudy.pSysService.am.ActivityManagerNative;
 public class ContextImpl  extends Context{
 
     public void startService(Intent service){
-        ComponentName cn = ActivityManagerNative.getDefault().startService();
+       // ComponentName cn = ActivityManagerNative.getDefault().startService();
 
 
     }

@@ -7,5 +7,6 @@ import com.pplab.songhua2.androidstudy.pBinder.IBinder;
  */
 public class ServiceManager {
     public static IBinder getService(String activity) {
+        return null;
     }
 }
