@@ -1,0 +1,1817 @@
+ACTIVITY MANAGER PENDING INTENTS (dumpsys activity intents)
+  * PendingIntentRecord{16439f95 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{17a888aa com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{9e22c9b com.google.android.gms startService}
+  * PendingIntentRecord{19c66838 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{8ba011 com.google.android.gms startService}
+  * PendingIntentRecord{45e8576 com.google.android.gms startService}
+  * PendingIntentRecord{182cf777 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{1b95cfe4 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{12792c4d com.lenovo.powersetting broadcastIntent}
+  * PendingIntentRecord{19a58302 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{eef9413 android broadcastIntent}
+  * PendingIntentRecord{14d20650 com.google.android.gms startService}
+  * PendingIntentRecord{d394049 com.google.android.googlequicksearchbox startService}
+  * PendingIntentRecord{146ccd4e com.lenovo.lewea startService}
+  * PendingIntentRecord{11355e6f com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{f59377c com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{1dcc9805 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{1f4c705a com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{1d63728b com.google.android.talk broadcastIntent}
+  * PendingIntentRecord{12c04f68 com.google.android.talk broadcastIntent}
+  * PendingIntentRecord{683af81 com.google.android.gms startService}
+  * PendingIntentRecord{4513826 com.google.android.inputmethod.latin broadcastIntent}
+  * PendingIntentRecord{914ac67 com.google.android.gms startService}
+  * PendingIntentRecord{8fefa14 android broadcastIntent}
+  * PendingIntentRecord{43ac2bd com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{f88b0b2 com.google.android.gms startService}
+  * PendingIntentRecord{1eb5a803 com.google.android.googlequicksearchbox startActivity}
+  * PendingIntentRecord{1dba380 com.google.android.gms startService}
+  * PendingIntentRecord{b55cdb9 com.google.android.youtube broadcastIntent}
+  * PendingIntentRecord{e4d25fe com.google.android.talk broadcastIntent}
+  * PendingIntentRecord{18e0c15f com.android.systemui broadcastIntent}
+  * PendingIntentRecord{11777ac com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{187c8c75 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{1751a40a com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{177a147b android startActivity}
+  * PendingIntentRecord{35a6298 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{11167af1 com.google.android.music startService}
+  * PendingIntentRecord{76df6d6 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{a8b7d57 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{5df1044 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{f86d52d android broadcastIntent}
+  * PendingIntentRecord{1f2aaa62 com.google.android.gms startService}
+  * PendingIntentRecord{ee097f3 com.google.android.gms startService}
+  * PendingIntentRecord{1cdeecb0 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{17289729 com.android.vending startService}
+  * PendingIntentRecord{d0d0aae com.google.android.apps.photos broadcastIntent}
+  * PendingIntentRecord{1862c04f com.google.android.gms startService}
+  * PendingIntentRecord{4be23dc com.google.android.gms startService}
+  * PendingIntentRecord{c0a7ce5 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{10a323ba com.google.android.gms startService}
+  * PendingIntentRecord{635126b com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{19f7a1c8 com.google.android.gms startService}
+  * PendingIntentRecord{a6b0261 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{24fc186 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{1c906a47 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{3c91274 android broadcastIntent}
+  * PendingIntentRecord{19f4639d com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{bd67012 android broadcastIntent}
+  * PendingIntentRecord{5f63e3 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{1d9ee1e0 com.google.android.gms startService}
+  * PendingIntentRecord{18b89c99 com.google.android.gms startService}
+  * PendingIntentRecord{1da77b5e com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{109a5b3f android broadcastIntent}
+  * PendingIntentRecord{b403c0c android broadcastIntent}
+  * PendingIntentRecord{19ed6955 com.google.android.talk broadcastIntent}
+  * PendingIntentRecord{cebef6a com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{19636c5b com.google.android.apps.photos broadcastIntent}
+  * PendingIntentRecord{3bb0cf8 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{146845d1 android broadcastIntent}
+  * PendingIntentRecord{6519836 com.google.android.apps.photos broadcastIntent}
+  * PendingIntentRecord{1ce27337 com.lenovo.weather.theme.dreamlandPad broadcastIntent}
+  * PendingIntentRecord{1f1000a4 android broadcastIntent}
+  * PendingIntentRecord{1cda6e0d com.google.android.googlequicksearchbox startActivity}
+  * PendingIntentRecord{19701c2 com.android.chrome startActivity}
+  * PendingIntentRecord{de10bd3 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{129e8310 com.google.android.gms startService}
+  * PendingIntentRecord{7ccde09 com.google.android.gms startService}
+  * PendingIntentRecord{1d7780e com.lenovo.powersetting broadcastIntent}
+  * PendingIntentRecord{1826922f com.android.chrome startService}
+  * PendingIntentRecord{850c03c android broadcastIntent}
+  * PendingIntentRecord{f5c51c5 com.android.chrome startService}
+  * PendingIntentRecord{e97071a com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{1294224b android broadcastIntent}
+  * PendingIntentRecord{1c87a428 com.google.android.gms startService}
+  * PendingIntentRecord{18b54541 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{118e7ae6 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{17009827 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{ec6dad4 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{154ff47d com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{5375f72 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{1bd48fc3 com.google.android.gms startService}
+  * PendingIntentRecord{1120d040 com.google.android.gms startService}
+  * PendingIntentRecord{1bec5b79 com.google.android.gms startService}
+  * PendingIntentRecord{1800be com.android.settings broadcastIntent}
+  * PendingIntentRecord{b66651f com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{262b06c com.lenovo.updateassist startService}
+  * PendingIntentRecord{154e3635 com.lenovo.weather.theme.dreamlandPad startActivity}
+  * PendingIntentRecord{8cf6aca com.google.android.talk broadcastIntent}
+  * PendingIntentRecord{1516343b com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{1f006758 com.google.android.youtube broadcastIntent}
+  * PendingIntentRecord{18b900b1 com.google.android.googlequicksearchbox startActivity}
+  * PendingIntentRecord{1ee16996 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{1429d917 com.google.android.gms startService}
+  * PendingIntentRecord{14c0a104 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{142bf6ed com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{4428922 android broadcastIntent}
+  * PendingIntentRecord{868efb3 android broadcastIntent}
+  * PendingIntentRecord{528c970 com.google.android.inputmethod.latin broadcastIntent}
+  * PendingIntentRecord{1c5e14e9 com.lenovo.lsf.device startService}
+  * PendingIntentRecord{13a4156e com.google.android.music startService}
+  * PendingIntentRecord{1c78d40f com.lenovo.lsf.device startService}
+  * PendingIntentRecord{2a90c9c com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{7a16a5 com.google.android.gms startService}
+  * PendingIntentRecord{f801a7a com.lenovo.updateassist startService}
+  * PendingIntentRecord{15f8a22b com.google.android.gms startService}
+  * PendingIntentRecord{14885688 android broadcastIntent}
+  * PendingIntentRecord{1d9a7821 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{15e56446 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{b5d3607 com.google.android.youtube broadcastIntent}
+  * PendingIntentRecord{d905334 com.google.android.music startService}
+  * PendingIntentRecord{e05755d com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{5037ed2 com.google.android.gms startService}
+  * PendingIntentRecord{1b8d2ba3 android broadcastIntent}
+  * PendingIntentRecord{1796ea0 android broadcastIntent}
+  * PendingIntentRecord{10290a59 com.google.android.googlequicksearchbox startActivity}
+  * PendingIntentRecord{1c76b61e android broadcastIntent}
+  * PendingIntentRecord{33cdeff com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{516d4cc android broadcastIntent}
+  * PendingIntentRecord{156f315 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{754162a android broadcastIntent}
+  * PendingIntentRecord{c0a6c1b com.google.android.apps.photos broadcastIntent}
+  * PendingIntentRecord{54271b8 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{840ab91 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{1af56af6 com.lenovo.weather.theme.dreamlandPad broadcastIntent}
+  * PendingIntentRecord{1159aef7 com.google.android.gms startService}
+  * PendingIntentRecord{88f164 com.google.android.gms startService}
+  * PendingIntentRecord{b336fcd com.lenovo.videoplayer startActivity}
+  * PendingIntentRecord{16854082 com.android.settings broadcastIntent}
+  * PendingIntentRecord{16f04393 com.google.android.music startService}
+  * PendingIntentRecord{f95bfd0 android broadcastIntent}
+  * PendingIntentRecord{e143bc9 com.google.android.talk broadcastIntent}
+  * PendingIntentRecord{f4ae2ce com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{d5185ef android startActivity}
+  * PendingIntentRecord{85f08fc com.google.android.gms startService}
+  * PendingIntentRecord{141bcb85 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{15b65dda com.google.android.music broadcastIntent}
+  * PendingIntentRecord{1fda920b android broadcastIntent}
+  * PendingIntentRecord{811b8e8 com.google.android.youtube startActivity}
+  * PendingIntentRecord{1529b01 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{1f2c7da6 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{89e43e7 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{d4fed5a android startActivity}
+  * PendingIntentRecord{fbd7b94 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{17cce63d com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{92ce32 com.android.providers.calendar broadcastIntent}
+  * PendingIntentRecord{6013783 com.android.chrome broadcastIntent}
+  * PendingIntentRecord{1fc0bd00 android broadcastIntent}
+  * PendingIntentRecord{ca6a939 android broadcastIntent}
+
+ACTIVITY MANAGER BROADCAST STATE (dumpsys activity broadcasts)
+  Historical broadcasts [foreground]:
+  #0: BroadcastRecord{59b9b7e u-1 android.intent.action.CLOSE_SYSTEM_DIALOGS}
+    act=android.intent.action.CLOSE_SYSTEM_DIALOGS flg=0x50000010 (has extras)
+    extras: Bundle[{reason=homekey}]
+  #1: BroadcastRecord{e15c8df u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #2: BroadcastRecord{1df4a92c u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #3: BroadcastRecord{10bf9ff5 u-1 android.intent.action.SCREEN_ON}
+    act=android.intent.action.SCREEN_ON flg=0x50000010
+  #4: BroadcastRecord{10d1f18a u-1 android.hardware.usb.action.USB_STATE}
+    act=android.hardware.usb.action.USB_STATE flg=0x30000010 (has extras)
+    extras: Bundle[{connected=true, adb=true, mtp=true, configured=true}]
+  #5: BroadcastRecord{1bb813fb u-1 android.hardware.usb.action.USB_STATE}
+    act=android.hardware.usb.action.USB_STATE flg=0x30000010 (has extras)
+    extras: Bundle[{connected=true, adb=true, mtp=true, configured=false}]
+  #6: BroadcastRecord{12992c18 u-1 android.hardware.usb.action.USB_STATE}
+    act=android.hardware.usb.action.USB_STATE flg=0x30000010 (has extras)
+    extras: Bundle[{connected=true, adb=true, mtp=true, configured=true}]
+  #7: BroadcastRecord{9374671 u-1 android.hardware.usb.action.USB_STATE}
+    act=android.hardware.usb.action.USB_STATE flg=0x30000010 (has extras)
+    extras: Bundle[{connected=true, adb=true, mtp=true, configured=false}]
+  #8: BroadcastRecord{10659c56 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #9: BroadcastRecord{1169f4d7 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #10: BroadcastRecord{800f1c4 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #11: BroadcastRecord{13a8d8ad u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #12: BroadcastRecord{13b727e2 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #13: BroadcastRecord{def0773 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #14: BroadcastRecord{18fd6630 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #15: BroadcastRecord{122752a9 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #16: BroadcastRecord{da3e02e u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #17: BroadcastRecord{ea8a7cf u-1 android.intent.action.SCREEN_OFF}
+    act=android.intent.action.SCREEN_OFF flg=0x50000010
+  #18: BroadcastRecord{1a0ab55c u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #19: BroadcastRecord{1af97065 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #20: BroadcastRecord{f91d13a u37 android.server.checkin.CHECKIN}
+    act=android.server.checkin.CHECKIN flg=0x10000010 (has extras)
+    extras: Bundle[mParcelledData.dataSize=28]
+  #21: BroadcastRecord{1bb1f1eb u-1 android.intent.action.CLOSE_SYSTEM_DIALOGS}
+    act=android.intent.action.CLOSE_SYSTEM_DIALOGS flg=0x50000010 (has extras)
+    extras: Bundle[{reason=homekey}]
+  #22: BroadcastRecord{93bcb48 u-1 android.intent.action.CLOSE_SYSTEM_DIALOGS}
+    act=android.intent.action.CLOSE_SYSTEM_DIALOGS flg=0x50000010 (has extras)
+    extras: Bundle[{reason=homekey}]
+  #23: BroadcastRecord{815ade1 u-1 android.intent.action.CLOSE_SYSTEM_DIALOGS}
+    act=android.intent.action.CLOSE_SYSTEM_DIALOGS flg=0x50000010 (has extras)
+    extras: Bundle[{reason=homekey}]
+  #24: BroadcastRecord{93bc706 u-1 android.intent.action.CLOSE_SYSTEM_DIALOGS}
+    act=android.intent.action.CLOSE_SYSTEM_DIALOGS flg=0x50000010 (has extras)
+    extras: Bundle[{reason=homekey}]
+  #25: BroadcastRecord{19bbc1c7 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #26: BroadcastRecord{10e653f4 u-1 android.intent.action.SCREEN_ON}
+    act=android.intent.action.SCREEN_ON flg=0x50000010
+  #27: BroadcastRecord{25e471d u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #28: BroadcastRecord{193d4d92 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #29: BroadcastRecord{1da8b363 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #30: BroadcastRecord{90ebb60 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #31: BroadcastRecord{49d3819 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #32: BroadcastRecord{1a5eb0de u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #33: BroadcastRecord{1de922bf u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #34: BroadcastRecord{3942d8c u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #35: BroadcastRecord{12403cd5 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #36: BroadcastRecord{19a0fcea u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #37: BroadcastRecord{1d972bdb u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #38: BroadcastRecord{f1c9678 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #39: BroadcastRecord{1dd4d151 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #40: BroadcastRecord{109fdb6 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #41: BroadcastRecord{d52aab7 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #42: BroadcastRecord{1cc0a224 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #43: BroadcastRecord{1b44318d u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #44: BroadcastRecord{3303f42 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #45: BroadcastRecord{1ddd3b53 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #46: BroadcastRecord{1477bc90 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #47: BroadcastRecord{19cf5989 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #48: BroadcastRecord{13870d8e u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #49: BroadcastRecord{7639af u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  ...
+
+  Historical broadcasts [background]:
+  #0: BroadcastRecord{44411bc u0 com.google.android.c2dm.intent.REGISTRATION}
+    act=com.google.android.c2dm.intent.REGISTRATION flg=0x10 pkg=com.google.android.talk (has extras)
+    extras: Bundle[mParcelledData.dataSize=72]
+  #1: BroadcastRecord{1cb0545 u0 com.google.android.gcm.DISCONNECTED}
+    act=com.google.android.gcm.DISCONNECTED flg=0x10
+  #2: BroadcastRecord{176a749a u0 com.google.android.intent.action.GCM_RECONNECT}
+    act=com.google.android.intent.action.GCM_RECONNECT flg=0x14 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #3: BroadcastRecord{10f6c1cb u-1 android.net.wifi.SCAN_RESULTS}
+    act=android.net.wifi.SCAN_RESULTS flg=0x4000010
+  #4: BroadcastRecord{161e8da8 u37 com.google.android.gms.gcm.ACTION_EXECUTE_TASK}
+    act=com.google.android.gms.gcm.ACTION_EXECUTE_TASK flg=0x10 pkg=com.google.android.gms (has extras)
+    extras: Bundle[mParcelledData.dataSize=588]
+  #5: BroadcastRecord{121bb0c1 u0 com.lenovo.multiwindow.GO_HOME}
+    act=com.lenovo.multiwindow.GO_HOME flg=0x10
+  #6: BroadcastRecord{25345de u37 android.intent.action.PACKAGE_CHANGED}
+    act=android.intent.action.PACKAGE_CHANGED dat=package:com.google.android.gms flg=0x4000010 (has extras)
+    extras: Bundle[{android.intent.extra.changed_component_name=com.google.android.gms.icing.service.PowerConnectedReceiver, android.intent.extra.DONT_KILL_APP=true, android.intent.extra.UID=3710008, android.intent.extra.changed_component_name_list=[Ljava.lang.String;@1beb4066, android.intent.extra.user_handle=37}]
+  #7: BroadcastRecord{1f479f3d u0 android.intent.action.PACKAGE_CHANGED}
+    act=android.intent.action.PACKAGE_CHANGED dat=package:com.google.android.gms flg=0x4000010 (has extras)
+    extras: Bundle[{android.intent.extra.changed_component_name=com.google.android.gms.icing.service.PowerConnectedReceiver, android.intent.extra.DONT_KILL_APP=true, android.intent.extra.UID=10008, android.intent.extra.changed_component_name_list=[Ljava.lang.String;@5adafa7, android.intent.extra.user_handle=0}]
+  #8: BroadcastRecord{18a2dc54 u0 android.search.action.SEARCHABLES_CHANGED}
+    act=android.search.action.SEARCHABLES_CHANGED flg=0x24000010
+  #9: BroadcastRecord{197197fd u37 android.intent.action.PACKAGE_CHANGED}
+    act=android.intent.action.PACKAGE_CHANGED dat=package:com.google.android.gms flg=0x4000010 (has extras)
+    extras: Bundle[{android.intent.extra.changed_component_name=com.google.android.gms.icing.service.PowerConnectedReceiver, android.intent.extra.DONT_KILL_APP=true, android.intent.extra.UID=3710008, android.intent.extra.changed_component_name_list=[Ljava.lang.String;@1beb4066, android.intent.extra.user_handle=37}]
+  #10: BroadcastRecord{1c5afcf2 u0 android.intent.action.PACKAGE_CHANGED}
+    act=android.intent.action.PACKAGE_CHANGED dat=package:com.google.android.gms flg=0x4000010 (has extras)
+    extras: Bundle[{android.intent.extra.changed_component_name=com.google.android.gms.icing.service.PowerConnectedReceiver, android.intent.extra.DONT_KILL_APP=true, android.intent.extra.UID=10008, android.intent.extra.changed_component_name_list=[Ljava.lang.String;@5adafa7, android.intent.extra.user_handle=0}]
+  #11: BroadcastRecord{fb9f43 u0 com.lenovo.weather.action.TIME_TICK}
+    act=com.lenovo.weather.action.TIME_TICK flg=0x10
+  #12: BroadcastRecord{67b69c0 u0 android.intent.action.USER_PRESENT}
+    act=android.intent.action.USER_PRESENT flg=0x24000010
+  #13: BroadcastRecord{744b6f9 u0 com.lenovo.weather.action.TIME_TICK}
+    act=com.lenovo.weather.action.TIME_TICK flg=0x10
+  #14: BroadcastRecord{597f63e u37 com.lenovo.weather.action.TIME_TICK}
+    act=com.lenovo.weather.action.TIME_TICK flg=0x10
+  #15: BroadcastRecord{aeec9f u0 com.lenovo.weather.action.TIME_TICK}
+    act=com.lenovo.weather.action.TIME_TICK flg=0x10
+  #16: BroadcastRecord{188d61ec u0 com.lenovo.weather.action.TIME_TICK}
+    act=com.lenovo.weather.action.TIME_TICK flg=0x10
+  #17: BroadcastRecord{1090c9b5 u0 android.intent.action.USER_PRESENT}
+    act=android.intent.action.USER_PRESENT flg=0x24000010
+  #18: BroadcastRecord{219384a u37 com.lenovo.weather.action.TIME_TICK}
+    act=com.lenovo.weather.action.TIME_TICK flg=0x10
+  #19: BroadcastRecord{71fb3bb u0 com.lenovo.weather.action.TIME_TICK}
+    act=com.lenovo.weather.action.TIME_TICK flg=0x10
+  #20: BroadcastRecord{ee4b0d8 u0 com.android.server.action.NETWORK_STATS_POLL}
+    act=com.android.server.action.NETWORK_STATS_POLL flg=0x14 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #21: BroadcastRecord{4514c31 u-1 com.android.server.action.NETWORK_STATS_UPDATED}
+    act=com.android.server.action.NETWORK_STATS_UPDATED flg=0x40000010
+  #22: BroadcastRecord{1aba8f16 u0 com.lenovo.weather.action.TIME_TICK}
+    act=com.lenovo.weather.action.TIME_TICK flg=0x10
+  #23: BroadcastRecord{1a0bd097 u-1 android.intent.action.BATTERY_CHANGED}
+    act=android.intent.action.BATTERY_CHANGED flg=0x60000010 (has extras)
+    extras: Bundle[{technology=Li-ion, icon-small=17303140, health=2, status=2, plugged=2, present=true, level=98, scale=100, temperature=224, voltage=4210, invalid_charger=0}]
+  #24: BroadcastRecord{1c600284 u0 android.app.action.DEVICE_POLICY_MANAGER_STATE_CHANGED}
+    act=android.app.action.DEVICE_POLICY_MANAGER_STATE_CHANGED flg=0x40000010
+  #25: BroadcastRecord{bbd7a6d u0 android.app.action.DEVICE_POLICY_MANAGER_STATE_CHANGED}
+    act=android.app.action.DEVICE_POLICY_MANAGER_STATE_CHANGED flg=0x40000010
+  #26: BroadcastRecord{184886a2 u37 com.google.android.gms.gcm.ACTION_EXECUTE_TASK}
+    act=com.google.android.gms.gcm.ACTION_EXECUTE_TASK flg=0x10 pkg=com.google.android.gms (has extras)
+    extras: Bundle[mParcelledData.dataSize=472]
+  #27: BroadcastRecord{1332df33 u37 com.google.android.gms.gcm.ACTION_EXECUTE_TASK}
+    act=com.google.android.gms.gcm.ACTION_EXECUTE_TASK flg=0x10 pkg=com.google.android.gms (has extras)
+    extras: Bundle[mParcelledData.dataSize=588]
+  #28: BroadcastRecord{11cc2f0 u0 com.google.android.gms.gcm.ACTION_SCHEDULE}
+    act=com.google.android.gms.gcm.ACTION_SCHEDULE flg=0x10 pkg=com.google.android.gms (has extras)
+    targetComp: {com.google.android.gms/com.google.android.gms.gcm.nts.SchedulerReceiver}
+    extras: Bundle[mParcelledData.dataSize=524]
+  #29: BroadcastRecord{12445069 u37 com.google.android.gms.gcm.ACTION_SCHEDULE}
+    act=com.google.android.gms.gcm.ACTION_SCHEDULE flg=0x10 pkg=com.google.android.gms (has extras)
+    extras: Bundle[mParcelledData.dataSize=488]
+  #30: BroadcastRecord{11cc6aee u37 com.google.android.gms.gcm.ACTION_EXECUTE_TASK}
+    act=com.google.android.gms.gcm.ACTION_EXECUTE_TASK flg=0x10 pkg=com.google.android.gms (has extras)
+    extras: Bundle[mParcelledData.dataSize=540]
+  #31: BroadcastRecord{1eb23b8f u37 com.google.android.gms.gcm.ACTION_EXECUTE_TASK}
+    act=com.google.android.gms.gcm.ACTION_EXECUTE_TASK flg=0x10 pkg=com.google.android.gms (has extras)
+    extras: Bundle[mParcelledData.dataSize=488]
+  #32: BroadcastRecord{1fa31e1c u37 com.google.android.gms.gcm.ACTION_EXECUTE_TASK}
+    act=com.google.android.gms.gcm.ACTION_EXECUTE_TASK flg=0x10 pkg=com.google.android.gms (has extras)
+    extras: Bundle[mParcelledData.dataSize=480]
+  #33: BroadcastRecord{11488a25 u37 com.google.android.gms.gcm.ACTION_EXECUTE_TASK}
+    act=com.google.android.gms.gcm.ACTION_EXECUTE_TASK flg=0x10 pkg=com.google.android.gms (has extras)
+    extras: Bundle[mParcelledData.dataSize=480]
+  #34: BroadcastRecord{139847fa u0 com.lenovo.weather.action.TIME_TICK}
+    act=com.lenovo.weather.action.TIME_TICK flg=0x10
+  #35: BroadcastRecord{32101ab u37 com.lenovo.weather.action.TIME_TICK}
+    act=com.lenovo.weather.action.TIME_TICK flg=0x10
+  #36: BroadcastRecord{18d20008 u0 com.lenovo.weather.action.TIME_TICK}
+    act=com.lenovo.weather.action.TIME_TICK flg=0x10
+  #37: BroadcastRecord{1b9ca3a1 u-1 android.intent.action.ACTION_POWER_CONNECTED}
+    act=android.intent.action.ACTION_POWER_CONNECTED flg=0x4000010
+  #38: BroadcastRecord{b12e9c6 u0 com.lenovo.weather.action.TIME_TICK}
+    act=com.lenovo.weather.action.TIME_TICK flg=0x10
+  #39: BroadcastRecord{f6c0d87 u37 com.lenovo.weather.action.TIME_TICK}
+    act=com.lenovo.weather.action.TIME_TICK flg=0x10
+  #40: BroadcastRecord{1a8b14b4 u0 com.lenovo.weather.action.TIME_TICK}
+    act=com.lenovo.weather.action.TIME_TICK flg=0x10
+  #41: BroadcastRecord{4bed8dd u-1 android.net.wifi.RSSI_CHANGED}
+    act=android.net.wifi.RSSI_CHANGED flg=0x4000010 (has extras)
+    extras: Bundle[{newRssi=-49}]
+  #42: BroadcastRecord{343dc52 u-1 android.intent.action.ACTION_POWER_CONNECTED}
+    act=android.intent.action.ACTION_POWER_CONNECTED flg=0x4000010
+  #43: BroadcastRecord{a71fb23 u-1 android.intent.action.BATTERY_CHANGED}
+    act=android.intent.action.BATTERY_CHANGED flg=0x60000010 (has extras)
+    extras: Bundle[{technology=Li-ion, icon-small=17303140, health=2, status=2, plugged=2, present=true, level=98, scale=100, temperature=224, voltage=4255, invalid_charger=0}]
+  #44: BroadcastRecord{d1ec820 u0 com.google.android.gcm.DISCONNECTED}
+    act=com.google.android.gcm.DISCONNECTED flg=0x10
+  #45: BroadcastRecord{1fd525d9 u0 com.google.android.gcm.DISCONNECTED}
+    act=com.google.android.gcm.DISCONNECTED flg=0x10
+  #46: BroadcastRecord{1e1f6b9e u37 com.lenovo.weather.action.TIME_TICK}
+    act=com.lenovo.weather.action.TIME_TICK flg=0x10
+  #47: BroadcastRecord{5f267f u0 com.lenovo.weather.action.TIME_TICK}
+    act=com.lenovo.weather.action.TIME_TICK flg=0x10
+  #48: BroadcastRecord{b78464c u37 com.lenovo.weather.action.TIME_TICK}
+    act=com.lenovo.weather.action.TIME_TICK flg=0x10
+  #49: BroadcastRecord{12694695 u0 com.lenovo.weather.action.TIME_TICK}
+    act=com.lenovo.weather.action.TIME_TICK flg=0x10
+  ...
+
+  Sticky broadcasts for user -1:
+  * Sticky action android.intent.action.SERVICE_STATE
+  * Sticky action android.net.wifi.WIFI_STATE_CHANGED
+  * Sticky action android.net.wifi.p2p.CONNECTION_STATE_CHANGE
+  * Sticky action android.net.conn.TETHER_STATE_CHANGED
+  * Sticky action android.media.ACTION_SCO_AUDIO_STATE_UPDATED
+  * Sticky action android.net.wifi.p2p.THIS_DEVICE_CHANGED
+  * Sticky action android.intent.action.BATTERY_CHANGED
+  * Sticky action android.net.conn.CONNECTIVITY_CHANGE
+  * Sticky action android.net.nsd.STATE_CHANGED
+  * Sticky action android.hardware.usb.action.USB_STATE
+  * Sticky action android.net.wifi.RSSI_CHANGED
+  * Sticky action android.net.wifi.STATE_CHANGE
+  * Sticky action android.intent.action.SIM_STATE_CHANGED
+  * Sticky action android.media.INTERNAL_RINGER_MODE_CHANGED_ACTION
+  * Sticky action android.net.wifi.supplicant.STATE_CHANGE
+  * Sticky action android.net.wifi.p2p.PERSISTENT_GROUPS_CHANGED
+  * Sticky action com.intel.thermal.action.QUERY_THERMAL_PROFILE
+  * Sticky action android.net.conn.INET_CONDITION_ACTION
+  * Sticky action android.net.conn.CONNECTIVITY_CHANGE_IMMEDIATE
+  * Sticky action android.media.SCO_AUDIO_STATE_CHANGED
+  * Sticky action android.os.UpdateLock.UPDATE_LOCK_CHANGED
+  * Sticky action android.media.MASTER_MUTE_CHANGED_ACTION
+  * Sticky action wifi_scan_available
+  * Sticky action android.net.wifi.p2p.STATE_CHANGED
+  * Sticky action android.intent.action.HDMI_PLUGGED
+  * Sticky action android.media.RINGER_MODE_CHANGED
+
+  Sticky broadcasts for user 0:
+  * Sticky action com.google.android.apps.gmm.NAVIGATION_STATE
+  * Sticky action CSM Connection Update Intent
+  * Sticky action com.android.launcher3.SYSTEM_READY
+  * Sticky action android.hardware.usb.action.USB_ACCESS_AVAILABLE
+
+  Sticky broadcasts for user 37:
+  * Sticky action com.google.android.update.SYSTEM_UPDATE
+
+ACTIVITY MANAGER CONTENT PROVIDERS (dumpsys activity providers)
+  Published single-user content providers (by class):
+  * ContentProviderRecord{1692a3aa u0 com.android.providers.telephony/.TelephonyProvider}
+    proc=ProcessRecord{b40af63 4014:com.android.phone/1001}
+    singleton=true
+    authority=telephony
+  * ContentProviderRecord{9c9ab9b u0 com.android.providers.telephony/.HbpcdLookupProvider}
+    proc=ProcessRecord{b40af63 4014:com.android.phone/1001}
+    singleton=true
+    authority=hbpcd_lookup
+  * ContentProviderRecord{12097b38 u0 com.android.providers.settings/.SettingsProvider}
+    proc=ProcessRecord{82fc1d6 3398:system/1000}
+    singleton=true
+    authority=settings
+    28 connections, 0 external handles
+      -> 3548:com.android.systemui/u0a21 s1/1 u0/0 +1d2h30m59s68ms
+      -> 4014:com.android.phone/1001 s1/1 u0/0 +1d2h30m55s54ms
+      -> 3933:com.intel.thermal/1000 s1/1 u0/0 +1d2h30m55s15ms
+      -> 4154:com.google.android.gms.persistent/u0a8 s1/1 u0/0 +1d2h30m54s74ms
+      -> 3744:com.google.process.gapps/u0a8 s1/1 u0/0 +1d2h30m54s5ms
+      -> 3975:com.dolby/1000 s1/1 u0/0 +1d2h30m43s184ms
+      -> 3838:com.google.android.gms/u0a8 s1/1 u0/0 +1d2h30m42s978ms
+      -> 3949:com.lenovo.multiwindow/1000 s1/1 u0/0 +1d2h29m11s814ms
+      -> 20953:com.lenovo.weather.theme.dreamlandPad/u0a27 s1/1 u0/0 +1d2h25m20s945ms
+      -> 18666:com.lenovo.olauncher/u0a19 s1/1 u0/0 +1d2h14m15s899ms
+      -> 21131:com.google.android.youtube/u0a86 s1/1 u0/0 +1d2h13m12s419ms
+      -> 21288:com.google.android.music:ui/u0a69 s1/1 u0/0 +1d2h13m0s298ms
+      -> 21437:com.android.settings/1000 s1/1 u0/0 +1d2h12m48s923ms
+      -> 27364:com.google.android.setupwizard/u37a33 s3/3 u0/0 +1d2h10m59s399ms
+      -> 27467:com.google.android.tts/u37a58 s1/1 u0/0 +1d2h10m56s747ms
+      -> 27848:com.google.android.inputmethod.latin/u0a62 s1/1 u0/0 +1d2h10m42s857ms
+      -> 27387:com.lenovo.ideafriend/u0a39 s1/1 u0/0 +1d2h10m28s212ms
+      -> 29594:com.lenovo.EngineeringCode/1000 s1/1 u0/0 +1d2h10m9s971ms
+      -> 22000:com.google.android.gms.persistent/u37a8 s2/2 u0/0 +15h20m47s720ms
+      -> 25696:com.lenovo.lsf.device/u0a13 s1/1 u0/0 +30m23s984ms
+      -> 25930:com.lenovo.lsf.device/u37a13 s1/1 u0/0 +30m21s985ms
+      -> 26075:com.dolby/u37s1000 s1/1 u0/0 +30m20s1ms
+      -> 21951:com.google.android.gms/u37a8 s1/1 u0/0 +29m52s58ms
+      -> 26390:com.lenovo.smartswitch/u37s1000 s2/2 u0/0 +29m50s804ms
+      -> 27719:com.lenovo.smartswitch/1000 s1/1 u0/0 +7m14s921ms
+      -> 27813:com.lenovo.updateassist/u37a35 s1/1 u0/0 +6m53s847ms
+      -> 27800:com.lenovo.updateassist/u0a35 s1/1 u0/0 +6m53s844ms
+      -> 28468:com.google.android.talk/u0a60 s1/1 u0/0 +8s669ms
+  * ContentProviderRecord{16e4b711 u0 com.android.providers.telephony/.MmsProvider}
+    proc=ProcessRecord{b40af63 4014:com.android.phone/1001}
+    singleton=true
+    authority=mms
+  * ContentProviderRecord{174f5076 u0 com.android.providers.telephony/.MmsSmsProvider}
+    proc=ProcessRecord{b40af63 4014:com.android.phone/1001}
+    singleton=true
+    authority=mms-sms
+  * ContentProviderRecord{88d6677 u0 com.android.providers.telephony/.SmsProvider}
+    proc=ProcessRecord{b40af63 4014:com.android.phone/1001}
+    singleton=true
+    authority=sms
+
+  Published user 0 content providers (by class):
+  * ContentProviderRecord{107712e4 u0 com.google.android.gsf/.subscribedfeeds.SubscribedFeedsProvider}
+    proc=ProcessRecord{552ea1b 3744:com.google.process.gapps/u0a8}
+    authority=subscribedfeeds
+  * ContentProviderRecord{accb34d u0 com.lenovo.ideafriend/.mms.android.TempFileProvider}
+    proc=ProcessRecord{1725756a 27387:com.lenovo.ideafriend/u0a39}
+    authority=ideafriend_mms_temp_file
+  * ContentProviderRecord{1257fe02 u0 com.lenovo.ideafriend/.spamblocker.provider.SpamBlockerProvider}
+    proc=ProcessRecord{1725756a 27387:com.lenovo.ideafriend/u0a39}
+    authority=com.lenovo.ideafriend.spamblocker.provider
+  * ContentProviderRecord{1667f313 u0 com.google.android.gms/.trustagent.framework.model.be.ModelContentProvider}
+    proc=ProcessRecord{3fd0bff 4154:com.google.android.gms.persistent/u0a8}
+    authority=com.google.android.gms.trustagent.framework.model.be.provider
+  * ContentProviderRecord{a047950 u0 com.google.android.gsf/.settings.GoogleSettingsProvider}
+    proc=ProcessRecord{552ea1b 3744:com.google.process.gapps/u0a8}
+    authority=com.google.settings
+  * ContentProviderRecord{4be3749 u0 com.google.android.youtube/com.google.android.apps.youtube.app.suggest.YouTubeSuggestionProvider}
+    proc=ProcessRecord{be63625 21131:com.google.android.youtube/u0a86}
+    authority=com.google.android.youtube.SuggestionProvider
+  * ContentProviderRecord{54bf84e u0 com.lenovo.updateassist/com.lenovo.vibeui.blockedprovider.BlockedMmsSmsProvider}
+    proc=ProcessRecord{be35249 27800:com.lenovo.updateassist/u0a35}
+    authority=blocked-mms-sms
+  * ContentProviderRecord{154ad6f u0 com.google.android.talk/com.google.android.apps.hangouts.mergedcontacts.impl.MergedContactProviderImpl}
+    proc=ProcessRecord{6d091b4 28468:com.google.android.talk/u0a60}
+    authority=com.google.android.apps.hangouts.mergedcontacts.MergedContactProvider
+  * ContentProviderRecord{10bfda7c u0 com.lenovo.updateassist/com.lenovo.lsf.bwprovider.BWContentProvider}
+    proc=ProcessRecord{be35249 27800:com.lenovo.updateassist/u0a35}
+    authority=com.lenovo.lsf.bwprovider
+  * ContentProviderRecord{e29ff05 u0 com.google.android.talk/android.support.v4.content.FileProvider}
+    proc=ProcessRecord{6d091b4 28468:com.google.android.talk/u0a60}
+    authority=com.google.android.apps.hangouts.conversation.v2
+  * ContentProviderRecord{16734b5a u0 com.android.providers.downloads/.DownloadProvider}
+    proc=ProcessRecord{2981b55 28020:android.process.media/u0a5}
+    authority=downloads
+  * ContentProviderRecord{11a8b18b u0 com.google.android.gms/.fitness.sync.FitnessContentProvider}
+    proc=ProcessRecord{3fd0bff 4154:com.google.android.gms.persistent/u0a8}
+    authority=com.google.android.gms.fitness
+  * ContentProviderRecord{76e2268 u0 com.android.providers.contacts/.CallLogProvider}
+    proc=ProcessRecord{4ad3061 3815:android.process.acore/u0a16}
+    authority=call_log
+  * ContentProviderRecord{1cd08681 u0 com.google.android.gms/.games.chimera.GamesContentProviderProxy}
+    proc=ProcessRecord{1ec85991 3838:com.google.android.gms/u0a8}
+    authority=com.google.android.gms.games.background
+  * ContentProviderRecord{168ac326 u0 com.google.android.gms/.kids.chimera.KidsDataProviderProxy}
+    proc=ProcessRecord{1ec85991 3838:com.google.android.gms/u0a8}
+    authority=com.google.android.gms.kids.common.sync
+  * ContentProviderRecord{15eedb67 u0 com.lenovo.gallery/.filtershow.provider.SharedImageProvider}
+    proc=ProcessRecord{1564af71 28349:com.lenovo.gallery/u0a18}
+    authority=com.lenovo.gallery.filtershow.provider.SharedImageProvider
+  * ContentProviderRecord{1636fd14 u0 com.dolby/.dax.api.TuningsProvider}
+    proc=ProcessRecord{dcc735 3975:com.dolby/1000}
+    authority=com.dolby.dax.api.Tunings
+  * ContentProviderRecord{7fe09bd u0 com.android.phone/.PhoneSearchIndexablesProvider}
+    proc=ProcessRecord{b40af63 4014:com.android.phone/1001}
+    authority=com.android.phone
+  * ContentProviderRecord{134febb2 u0 com.lenovo.ideafriend/.autorecord.provider.AutoRecordProvider}
+    proc=ProcessRecord{1725756a 27387:com.lenovo.ideafriend/u0a39}
+    authority=com.lenovo.ideafriend.autorecord.provider
+  * ContentProviderRecord{1083c703 u0 com.google.android.gms/com.google.android.location.reporting.service.ReportingContentProvider}
+    proc=ProcessRecord{3fd0bff 4154:com.google.android.gms.persistent/u0a8}
+    authority=com.google.android.location.reporting
+  * ContentProviderRecord{1e10d680 u0 com.google.android.gms/.people.service.PeopleContentProvider}
+    proc=ProcessRecord{1ec85991 3838:com.google.android.gms/u0a8}
+    authority=com.google.android.gms.people
+  * ContentProviderRecord{158684b9 u0 com.google.android.gms/.plus.provider.PlusProvider}
+    proc=ProcessRecord{1ec85991 3838:com.google.android.gms/u0a8}
+    authority=com.google.android.gms.plus;com.google.android.gms.plus.action
+  * ContentProviderRecord{6cd10fe u0 com.lenovo.updateassist/com.lenovo.vibeui.donotdisturbprovider.DoNotDisturbProvider}
+    proc=ProcessRecord{be35249 27800:com.lenovo.updateassist/u0a35}
+    authority=com.lenovo.vibeui.donotdisturbprovider
+  * ContentProviderRecord{2f1d05f u0 com.google.android.music/.icing.IcingContentProvider}
+    proc=ProcessRecord{136d6f0f 21310:com.google.android.music:main/u0a69}
+    authority=com.google.android.music.icing
+  * ContentProviderRecord{16ecdaac u0 com.google.android.youtube/android.support.v4.content.FileProvider}
+    proc=ProcessRecord{be63625 21131:com.google.android.youtube/u0a86}
+    authority=com.google.android.youtube.fileprovider
+  * ContentProviderRecord{1a81b375 u0 com.google.android.gms/.icing.proxy.AppsContentProvider}
+    proc=ProcessRecord{1ec85991 3838:com.google.android.gms/u0a8}
+    authority=com.google.android.gms.icing.proxy.apps
+  * ContentProviderRecord{f653f0a u0 com.lenovo.ideafriend/.contacts.simcontact.SimFavoriteProvider}
+    proc=ProcessRecord{1725756a 27387:com.lenovo.ideafriend/u0a39}
+    authority=com.lenovo.ideafriend.provider.simfavorite
+  * ContentProviderRecord{130d137b u0 com.google.android.gms/com.google.android.libraries.social.autobackup.AutoBackupProvider}
+    proc=ProcessRecord{1ec85991 3838:com.google.android.gms/u0a8}
+    authority=com.google.android.gms.photos.iu.EsGoogleIuProvider
+  * ContentProviderRecord{4a2f598 u0 com.lenovo.ideafriend/android.support.v4.content.FileProvider}
+    proc=ProcessRecord{1725756a 27387:com.lenovo.ideafriend/u0a39}
+    authority=com.android.contacts.files
+  * ContentProviderRecord{bc711f1 u0 com.android.settings/.search.SettingsSearchIndexablesProvider}
+    proc=ProcessRecord{1ca041d6 21437:com.android.settings/1000}
+    authority=com.android.settings
+  * ContentProviderRecord{5cf6c57 u0 com.google.android.gms/.auth.api.credentials.sync.CredentialContentProvider}
+    proc=ProcessRecord{1ec85991 3838:com.google.android.gms/u0a8}
+    authority=com.google.android.gms.auth.api.credentials
+  * ContentProviderRecord{e9dd344 u0 com.google.android.gms/.ads.adinfo.AdvertisingInfoContentProvider}
+    proc=ProcessRecord{1ec85991 3838:com.google.android.gms/u0a8}
+    authority=com.google.android.gms.ads.adinfo
+  * ContentProviderRecord{1a29dc2d u0 com.google.android.gms/.people.debug.PeopleExportProvider}
+    proc=ProcessRecord{1ec85991 3838:com.google.android.gms/u0a8}
+    authority=com.google.android.gms.people.export
+  * ContentProviderRecord{1cb6a562 u0 com.google.android.gms/.auth.be.AccountContentProvider}
+    proc=ProcessRecord{3fd0bff 4154:com.google.android.gms.persistent/u0a8}
+    authority=com.google.android.gms.auth.accounts
+  * ContentProviderRecord{144dc7c8 u0 com.android.providers.userdictionary/.UserDictionaryProvider}
+    proc=ProcessRecord{4ad3061 3815:android.process.acore/u0a16}
+    launchingApp=ProcessRecord{4ad3061 3815:android.process.acore/u0a16}
+    authority=user_dictionary
+  * ContentProviderRecord{bf476f3 u0 com.google.android.gms/android.support.v4.content.FileProvider}
+    proc=ProcessRecord{1ec85991 3838:com.google.android.gms/u0a8}
+    authority=com.google.android.gms.photos.autobackup.debugfileprovider
+  * ContentProviderRecord{646dfb0 u0 com.google.android.gms/.chromesync.sync.SyncContentProvider}
+    proc=ProcessRecord{1ec85991 3838:com.google.android.gms/u0a8}
+    authority=com.google.android.gms.chromesync
+  * ContentProviderRecord{16750e29 u0 com.lenovo.updateassist/com.lenovo.vibeui.blockedprovider.BlockNumberQueryProvider}
+    proc=ProcessRecord{be35249 27800:com.lenovo.updateassist/u0a35}
+    authority=com.lenovo.vibeui.blocknum.BlockNumberQueryProvider
+  * ContentProviderRecord{16ddb5ae u0 com.lenovo.ideafriend/.suggestions.provider.ContactsSuggestionsProvider}
+    proc=ProcessRecord{1725756a 27387:com.lenovo.ideafriend/u0a39}
+    authority=com.lenovo.ideafriend.provider.suggestions
+  * ContentProviderRecord{1c558f4f u0 com.google.android.partnersetup/.RlzProvider}
+    proc=ProcessRecord{195214e7 28332:com.google.android.partnersetup/u0a11}
+    authority=com.google.android.partnersetup.rlzprovider
+  * ContentProviderRecord{83246dc u0 com.android.providers.telephony/.WapPushProvider}
+    proc=ProcessRecord{b40af63 4014:com.android.phone/1001}
+    authority=wappush
+  * ContentProviderRecord{192763e5 u0 com.lenovo.ideafriend/.mms.android.SuggestionsProvider}
+    proc=ProcessRecord{1725756a 27387:com.lenovo.ideafriend/u0a39}
+    authority=com.lenovo.ideafriend.mms.android.SuggestionsProvider
+  * ContentProviderRecord{1e537eba u0 com.android.phone/.IccProvider}
+    proc=ProcessRecord{b40af63 4014:com.android.phone/1001}
+    authority=icc
+  * ContentProviderRecord{f6e3c6e u0 com.google.android.music/.store.ConfigContentProvider}
+    proc=ProcessRecord{136d6f0f 21310:com.google.android.music:main/u0a69}
+    launchingApp=ProcessRecord{136d6f0f 21310:com.google.android.music:main/u0a69}
+    authority=com.google.android.music.ConfigContent
+  * ContentProviderRecord{15e9600d u0 com.android.providers.media/.MediaProvider}
+    proc=ProcessRecord{2981b55 28020:android.process.media/u0a5}
+    launchingApp=ProcessRecord{2981b55 28020:android.process.media/u0a5}
+    authority=media
+  * ContentProviderRecord{1805d16b u0 com.google.android.gms/.games.provider.NotificationStubContentProvider}
+    proc=ProcessRecord{1ec85991 3838:com.google.android.gms/u0a8}
+    authority=com.google.android.gms.games
+  * ContentProviderRecord{ff8f2a6 u0 com.google.android.partnersetup/.RlzAppProvider}
+    proc=ProcessRecord{195214e7 28332:com.google.android.partnersetup/u0a11}
+    launchingApp=ProcessRecord{195214e7 28332:com.google.android.partnersetup/u0a11}
+    authority=com.google.android.partnersetup.rlzappprovider
+  * ContentProviderRecord{40af4c8 u0 com.lenovo.updateassist/com.lenovo.vibeui.blockedprovider.BlockedMmsProvider}
+    proc=ProcessRecord{be35249 27800:com.lenovo.updateassist/u0a35}
+    authority=blocked-mms
+  * ContentProviderRecord{9ef5961 u0 com.google.android.gms/.appstate.provider.AppStateContentProvider}
+    proc=ProcessRecord{1ec85991 3838:com.google.android.gms/u0a8}
+    authority=com.google.android.gms.appstate
+  * ContentProviderRecord{a2acc86 u0 com.google.android.gms/.common.download.provider.DownloadsProvider}
+    proc=ProcessRecord{1ec85991 3838:com.google.android.gms/u0a8}
+    authority=com.google.android.gms.download
+  * ContentProviderRecord{142e1947 u0 com.android.settings/com.lenovo.settings.power.dao.AlarmProvider}
+    proc=ProcessRecord{1ca041d6 21437:com.android.settings/1000}
+    authority=com.android.settings.test
+  * ContentProviderRecord{173e9574 u0 com.google.android.gms/.chromesync.persistence.ContentProvider}
+    proc=ProcessRecord{1ec85991 3838:com.google.android.gms/u0a8}
+    authority=com.google.android.gms.chromesync.persistence.provider
+  * ContentProviderRecord{2e72a9d u0 com.google.android.gms/.auth.api.credentials.be.persistence.TemporaryValueProvider}
+    proc=ProcessRecord{1ec85991 3838:com.google.android.gms/u0a8}
+    authority=com.google.android.gms.auth.api.credentials.be.persistence.TemporaryValueProvider
+  * ContentProviderRecord{1dd72b12 u0 com.google.android.talk/com.google.android.apps.hangouts.sms.MmsFileProvider}
+    proc=ProcessRecord{6d091b4 28468:com.google.android.talk/u0a60}
+    authority=com.google.android.apps.hangouts.sms.MmsFileProvider
+  * ContentProviderRecord{5a902e3 u0 com.android.providers.telephony/.CbProvider}
+    proc=ProcessRecord{b40af63 4014:com.android.phone/1001}
+    authority=cb
+  * ContentProviderRecord{66994e0 u0 com.google.android.gms/com.google.android.location.internal.LocationContentProvider}
+    proc=ProcessRecord{3fd0bff 4154:com.google.android.gms.persistent/u0a8}
+    authority=com.google.android.location.internal
+  * ContentProviderRecord{b90d399 u0 com.lenovo.gallery/.provider.GalleryProvider}
+    proc=ProcessRecord{1564af71 28349:com.lenovo.gallery/u0a18}
+    authority=com.lenovo.gallery.provider
+  * ContentProviderRecord{e78e65e u0 com.google.android.gms/.drive.metadata.sync.syncadapter.StubContentProvider}
+    proc=ProcessRecord{1ec85991 3838:com.google.android.gms/u0a8}
+    authority=com.google.android.gms.drive.sync
+  * ContentProviderRecord{a5eea3f u0 com.lenovo.gallery/com.android.photos.data.PhotoProvider}
+    proc=ProcessRecord{1564af71 28349:com.lenovo.gallery/u0a18}
+    authority=com.lenovo.gallery.photoprovider
+  * ContentProviderRecord{1831f0c u0 com.lenovo.ideafriend/.mms.lenovo.provider.ideaFriendMsgProvider}
+    proc=ProcessRecord{1725756a 27387:com.lenovo.ideafriend/u0a39}
+    authority=ideafriendMsg
+  * ContentProviderRecord{d614847 u0 com.android.providers.contacts/.ContactsProvider2}
+    proc=ProcessRecord{4ad3061 3815:android.process.acore/u0a16}
+    launchingApp=ProcessRecord{4ad3061 3815:android.process.acore/u0a16}
+    authority=contacts;com.android.contacts
+    1 connections, 0 external handles
+      -> 27387:com.lenovo.ideafriend/u0a39 s1/2 u0/21 +1d2h10m30s167ms
+  * ContentProviderRecord{7921055 u0 com.android.providers.downloads/.DownloadStorageProvider}
+    proc=ProcessRecord{2981b55 28020:android.process.media/u0a5}
+    authority=com.android.providers.downloads.documents
+  * ContentProviderRecord{10e90a6a u0 com.lenovo.olauncher/com.android.launcher3.LauncherProvider}
+    proc=ProcessRecord{c61eb5b 18666:com.lenovo.olauncher/u0a19}
+    authority=com.android.launcher3.settings
+  * ContentProviderRecord{1ec91ff8 u0 com.lenovo.ideafriend/.mms.lenovo.schedule.ScheduledMsgProvider}
+    proc=ProcessRecord{1725756a 27387:com.lenovo.ideafriend/u0a39}
+    authority=com.lenovo.ideafriend.provider.schedule
+  * ContentProviderRecord{15305cd1 u0 com.android.settings/android.support.v4.content.FileProvider}
+    proc=ProcessRecord{1ca041d6 21437:com.android.settings/1000}
+    authority=com.android.settings.files
+  * ContentProviderRecord{1c856336 u0 com.lenovo.ideafriend/.ideafriendProvider.ideaFriendLockScreenProvider}
+    proc=ProcessRecord{1725756a 27387:com.lenovo.ideafriend/u0a39}
+    authority=com.lenovo.ideafriend.ideaFriendLockScreenProvider
+  * ContentProviderRecord{1ac9e237 u0 com.android.providers.contacts/.VoicemailContentProvider}
+    proc=ProcessRecord{4ad3061 3815:android.process.acore/u0a16}
+    authority=com.android.voicemail
+  * ContentProviderRecord{186c43a4 u0 com.google.android.gsf/.gservices.GservicesProvider}
+    proc=ProcessRecord{552ea1b 3744:com.google.process.gapps/u0a8}
+    authority=com.google.android.gsf.gservices
+  * ContentProviderRecord{178cf50d u0 com.google.android.talk/com.google.android.apps.hangouts.content.EsProvider}
+    proc=ProcessRecord{6d091b4 28468:com.google.android.talk/u0a60}
+    authority=com.google.android.apps.hangouts.content.EsProvider
+  * ContentProviderRecord{ebc7cc2 u0 com.google.android.syncadapters.contacts/.GalProvider}
+    proc=ProcessRecord{552ea1b 3744:com.google.process.gapps/u0a8}
+    authority=com.google.contacts.gal.provider
+  * ContentProviderRecord{14506ad3 u0 com.google.android.gms/.icing.proxy.SmsContentProvider}
+    proc=ProcessRecord{1ec85991 3838:com.google.android.gms/u0a8}
+    authority=com.google.android.gms.icing.proxy.sms
+  * ContentProviderRecord{18fbf610 u0 com.android.providers.media/.MediaDocumentsProvider}
+    proc=ProcessRecord{2981b55 28020:android.process.media/u0a5}
+    authority=com.android.providers.media.documents
+  * ContentProviderRecord{8a0d509 u0 com.google.android.gms/.common.stats.net.contentprovider.NetworkUsageContentProvider}
+    proc=ProcessRecord{1ec85991 3838:com.google.android.gms/u0a8}
+    authority=com.google.android.gms.common.stats.net.contentprovider
+  * ContentProviderRecord{1b59a30e u0 com.google.android.music/.store.MusicContentProvider}
+    proc=ProcessRecord{136d6f0f 21310:com.google.android.music:main/u0a69}
+    authority=com.google.android.music.MusicContent
+  * ContentProviderRecord{1face12f u0 com.google.android.gms/.reminders.provider.RemindersProvider}
+    proc=ProcessRecord{1ec85991 3838:com.google.android.gms/u0a8}
+    authority=com.google.android.gms.reminders
+  * ContentProviderRecord{292633c u0 com.google.android.gms/.auth.CredentialStateContentProvider}
+    proc=ProcessRecord{1ec85991 3838:com.google.android.gms/u0a8}
+    authority=com.google.android.gms.auth.confirm
+  * ContentProviderRecord{ef8b8c5 u0 com.android.providers.contacts/.debug.DumpFileProvider}
+    proc=ProcessRecord{4ad3061 3815:android.process.acore/u0a16}
+    authority=com.android.contacts.dumpfile
+  * ContentProviderRecord{1590e21a u0 com.google.android.inputmethod.latin/com.android.inputmethod.dictionarypack.DictionaryProvider}
+    proc=ProcessRecord{c47bf4d 27848:com.google.android.inputmethod.latin/u0a62}
+    authority=com.google.android.inputmethod.dictionarypack
+  * ContentProviderRecord{db0614b u0 com.lenovo.videoplayer/.provider.VideoProvider}
+    proc=ProcessRecord{1cc07728 27927:com.lenovo.videoplayer/u0a65}
+    authority=com.lenovo.videoplayer.provider
+  * ContentProviderRecord{13311c41 u0 com.lenovo.ideafriend/.privatecommunication.provider.PrivateSpaceProvider}
+    proc=ProcessRecord{1725756a 27387:com.lenovo.ideafriend/u0a39}
+    authority=com.lenovo.ideafriend.privatecommunication.provider
+  * ContentProviderRecord{1dcb05e6 u0 com.lenovo.updateassist/com.lenovo.vibeui.blockedprovider.BlockedSmsProvider}
+    proc=ProcessRecord{be35249 27800:com.lenovo.updateassist/u0a35}
+    authority=blocked-sms
+
+  Published user 37 content providers (by class):
+  * ContentProviderRecord{121c727 u37 com.google.android.partnersetup/.RlzProvider}
+    proc=ProcessRecord{1e1a0860 28395:com.google.android.partnersetup/u37a11}
+    authority=com.google.android.partnersetup.rlzprovider
+  * ContentProviderRecord{1539ddd4 u37 com.google.android.gsf/.subscribedfeeds.SubscribedFeedsProvider}
+    proc=ProcessRecord{1e606108 27218:com.google.process.gapps/u37a8}
+    authority=subscribedfeeds
+  * ContentProviderRecord{11323b7d u37 com.lenovo.ideafriend/.mms.android.TempFileProvider}
+    proc=ProcessRecord{1a3e097a 27629:com.lenovo.ideafriend/u37a39}
+    authority=ideafriend_mms_temp_file
+  * ContentProviderRecord{319a72 u37 com.lenovo.ideafriend/.spamblocker.provider.SpamBlockerProvider}
+    proc=ProcessRecord{1a3e097a 27629:com.lenovo.ideafriend/u37a39}
+    authority=com.lenovo.ideafriend.spamblocker.provider
+  * ContentProviderRecord{1859aec3 u37 com.lenovo.ideafriend/.mms.android.SuggestionsProvider}
+    proc=ProcessRecord{1a3e097a 27629:com.lenovo.ideafriend/u37a39}
+    authority=com.lenovo.ideafriend.mms.android.SuggestionsProvider
+  * ContentProviderRecord{1f410340 u37 com.google.android.gms/.trustagent.framework.model.be.ModelContentProvider}
+    proc=ProcessRecord{1978f0ec 22000:com.google.android.gms.persistent/u37a8}
+    authority=com.google.android.gms.trustagent.framework.model.be.provider
+  * ContentProviderRecord{5846ab u37 com.google.android.gsf/.settings.GoogleSettingsProvider}
+    proc=ProcessRecord{1e606108 27218:com.google.process.gapps/u37a8}
+    launchingApp=ProcessRecord{1e606108 27218:com.google.process.gapps/u37a8}
+    authority=com.google.settings
+  * ContentProviderRecord{12c1279 u37 com.android.providers.media/.MediaProvider}
+    proc=ProcessRecord{8c5ea6c 28065:android.process.media/u37a5}
+    authority=media
+  * ContentProviderRecord{ffaebbe u37 com.lenovo.updateassist/com.lenovo.vibeui.blockedprovider.BlockedMmsSmsProvider}
+    proc=ProcessRecord{1d9749e4 27813:com.lenovo.updateassist/u37a35}
+    authority=blocked-mms-sms
+  * ContentProviderRecord{149e741f u37 com.google.android.googlequicksearchbox/com.google.android.velvet.extradex.ExtraDexHostProvider}
+    proc=ProcessRecord{108fb531 28372:com.google.android.googlequicksearchbox:search/u37a36}
+    authority=com.google.android.velvet.extradex.ExtraDexHostProvider
+  * ContentProviderRecord{1dd3136c u37 com.google.android.gms/.games.provider.NotificationStubContentProvider}
+    proc=ProcessRecord{13629ed4 21951:com.google.android.gms/u37a8}
+    authority=com.google.android.gms.games
+  * ContentProviderRecord{fcd1463 u37 com.google.android.partnersetup/.RlzAppProvider}
+    proc=ProcessRecord{1e1a0860 28395:com.google.android.partnersetup/u37a11}
+    launchingApp=ProcessRecord{1e1a0860 28395:com.google.android.partnersetup/u37a11}
+    authority=com.google.android.partnersetup.rlzappprovider
+  * ContentProviderRecord{14525d35 u37 com.google.android.googlequicksearchbox/com.google.android.apps.gsa.speech.audio.AudioProvider}
+    proc=ProcessRecord{108fb531 28372:com.google.android.googlequicksearchbox:search/u37a36}
+    authority=com.google.android.googlequicksearchbox.AudioProvider
+  * ContentProviderRecord{b7605ca u37 com.lenovo.updateassist/com.lenovo.vibeui.blockedprovider.BlockedMmsProvider}
+    proc=ProcessRecord{1d9749e4 27813:com.lenovo.updateassist/u37a35}
+    authority=blocked-mms
+  * ContentProviderRecord{1b40333b u37 com.google.android.gms/.appstate.provider.AppStateContentProvider}
+    proc=ProcessRecord{13629ed4 21951:com.google.android.gms/u37a8}
+    authority=com.google.android.gms.appstate
+  * ContentProviderRecord{493fa58 u37 com.google.android.googlequicksearchbox/com.google.android.apps.gsa.search.core.icingsync.InternalIcingCorporaProvider}
+    proc=ProcessRecord{108fb531 28372:com.google.android.googlequicksearchbox:search/u37a36}
+    authority=com.google.android.googlequicksearchbox.icing
+  * ContentProviderRecord{15897b1 u37 com.google.android.gms/.common.download.provider.DownloadsProvider}
+    proc=ProcessRecord{13629ed4 21951:com.google.android.gms/u37a8}
+    authority=com.google.android.gms.download
+  * ContentProviderRecord{14d6b496 u37 com.android.settings/com.lenovo.settings.power.dao.AlarmProvider}
+    proc=ProcessRecord{3c83f29 27081:com.android.settings/u37s1000}
+    authority=com.android.settings.test
+  * ContentProviderRecord{c74c817 u37 com.lenovo.updateassist/com.lenovo.lsf.bwprovider.BWContentProvider}
+    proc=ProcessRecord{1d9749e4 27813:com.lenovo.updateassist/u37a35}
+    authority=com.lenovo.lsf.bwprovider
+  * ContentProviderRecord{1b7a6404 u37 com.google.android.gms/.chromesync.persistence.ContentProvider}
+    proc=ProcessRecord{13629ed4 21951:com.google.android.gms/u37a8}
+    authority=com.google.android.gms.chromesync.persistence.provider
+  * ContentProviderRecord{1cadfded u37 com.android.providers.downloads/.DownloadProvider}
+    proc=ProcessRecord{8c5ea6c 28065:android.process.media/u37a5}
+    authority=downloads
+  * ContentProviderRecord{bc18422 u37 com.google.android.gms/.fitness.sync.FitnessContentProvider}
+    proc=ProcessRecord{1978f0ec 22000:com.google.android.gms.persistent/u37a8}
+    authority=com.google.android.gms.fitness
+  * ContentProviderRecord{bf3ceb3 u37 com.google.android.gms/.auth.api.credentials.be.persistence.TemporaryValueProvider}
+    proc=ProcessRecord{13629ed4 21951:com.google.android.gms/u37a8}
+    authority=com.google.android.gms.auth.api.credentials.be.persistence.TemporaryValueProvider
+  * ContentProviderRecord{113bbc70 u37 com.google.android.googlequicksearchbox/com.google.android.apps.gsa.search.core.imageloader.NetworkImageLoaderContentProvider}
+    proc=ProcessRecord{108fb531 28372:com.google.android.googlequicksearchbox:search/u37a36}
+    authority=com.google.android.googlequicksearchbox.NetworkImageLoaderContentProvider
+  * ContentProviderRecord{18798be9 u37 com.google.android.googlequicksearchbox/com.google.android.apps.gsa.ondevicewebsuggest.OnDeviceWebSuggestHostProvider}
+    proc=ProcessRecord{108fb531 28372:com.google.android.googlequicksearchbox:search/u37a36}
+    authority=com.google.android.googlequicksearchbox.OnDeviceWebSuggestHostProvider
+  * ContentProviderRecord{1397c06e u37 com.google.android.gms/.games.chimera.GamesContentProviderProxy}
+    proc=ProcessRecord{13629ed4 21951:com.google.android.gms/u37a8}
+    authority=com.google.android.gms.games.background
+  * ContentProviderRecord{1752a30f u37 com.google.android.gms/.kids.chimera.KidsDataProviderProxy}
+    proc=ProcessRecord{13629ed4 21951:com.google.android.gms/u37a8}
+    authority=com.google.android.gms.kids.common.sync
+  * ContentProviderRecord{8782f9c u37 com.google.android.gms/com.google.android.location.internal.LocationContentProvider}
+    proc=ProcessRecord{1978f0ec 22000:com.google.android.gms.persistent/u37a8}
+    authority=com.google.android.location.internal
+  * ContentProviderRecord{855fda5 u37 com.google.android.gms/.drive.metadata.sync.syncadapter.StubContentProvider}
+    proc=ProcessRecord{13629ed4 21951:com.google.android.gms/u37a8}
+    authority=com.google.android.gms.drive.sync
+  * ContentProviderRecord{1283757a u37 com.lenovo.ideafriend/.mms.lenovo.provider.ideaFriendMsgProvider}
+    proc=ProcessRecord{1a3e097a 27629:com.lenovo.ideafriend/u37a39}
+    authority=ideafriendMsg
+  * ContentProviderRecord{620612b u37 com.google.android.googlequicksearchbox/com.google.android.apps.gsa.velvet.util.StateDumpProvider}
+    proc=ProcessRecord{108fb531 28372:com.google.android.googlequicksearchbox:search/u37a36}
+    authority=com.google.android.velvet.util.statedumpprovider
+  * ContentProviderRecord{ba6a988 u37 com.dolby/.dax.api.TuningsProvider}
+    proc=ProcessRecord{4cdcf21 26075:com.dolby/u37s1000}
+    authority=com.dolby.dax.api.Tunings
+  * ContentProviderRecord{15436f46 u37 com.android.providers.downloads/.DownloadStorageProvider}
+    proc=ProcessRecord{8c5ea6c 28065:android.process.media/u37a5}
+    authority=com.android.providers.downloads.documents
+  * ContentProviderRecord{fc1e507 u37 com.lenovo.ideafriend/.autorecord.provider.AutoRecordProvider}
+    proc=ProcessRecord{1a3e097a 27629:com.lenovo.ideafriend/u37a39}
+    authority=com.lenovo.ideafriend.autorecord.provider
+  * ContentProviderRecord{13c0d634 u37 com.google.android.gms/com.google.android.location.reporting.service.ReportingContentProvider}
+    proc=ProcessRecord{1978f0ec 22000:com.google.android.gms.persistent/u37a8}
+    authority=com.google.android.location.reporting
+  * ContentProviderRecord{a973c5d u37 com.lenovo.olauncher/com.android.launcher3.LauncherProvider}
+    proc=ProcessRecord{3b739d2 28413:com.lenovo.olauncher/u37a19}
+    authority=com.android.launcher3.settings
+  * ContentProviderRecord{130dcaa3 u37 com.lenovo.ideafriend/.mms.lenovo.schedule.ScheduledMsgProvider}
+    proc=ProcessRecord{1a3e097a 27629:com.lenovo.ideafriend/u37a39}
+    authority=com.lenovo.ideafriend.provider.schedule
+  * ContentProviderRecord{daf21a0 u37 com.google.android.googlequicksearchbox/com.google.android.projection.CarAudioProvider}
+    proc=ProcessRecord{108fb531 28372:com.google.android.googlequicksearchbox:search/u37a36}
+    authority=com.google.android.projection.CarAudioProvider
+  * ContentProviderRecord{11904159 u37 com.google.android.gms/.people.service.PeopleContentProvider}
+    proc=ProcessRecord{13629ed4 21951:com.google.android.gms/u37a8}
+    authority=com.google.android.gms.people
+  * ContentProviderRecord{122b211e u37 com.google.android.gms/.plus.provider.PlusProvider}
+    proc=ProcessRecord{13629ed4 21951:com.google.android.gms/u37a8}
+    authority=com.google.android.gms.plus;com.google.android.gms.plus.action
+  * ContentProviderRecord{1ba86dff u37 com.android.settings/android.support.v4.content.FileProvider}
+    proc=ProcessRecord{3c83f29 27081:com.android.settings/u37s1000}
+    authority=com.android.settings.files
+  * ContentProviderRecord{a74b7cc u37 com.lenovo.updateassist/com.lenovo.vibeui.donotdisturbprovider.DoNotDisturbProvider}
+    proc=ProcessRecord{1d9749e4 27813:com.lenovo.updateassist/u37a35}
+    authority=com.lenovo.vibeui.donotdisturbprovider
+  * ContentProviderRecord{177a9a15 u37 com.lenovo.ideafriend/.ideafriendProvider.ideaFriendLockScreenProvider}
+    proc=ProcessRecord{1a3e097a 27629:com.lenovo.ideafriend/u37a39}
+    authority=com.lenovo.ideafriend.ideaFriendLockScreenProvider
+  * ContentProviderRecord{1b64312a u37 com.google.android.gms/.icing.proxy.AppsContentProvider}
+    proc=ProcessRecord{13629ed4 21951:com.google.android.gms/u37a8}
+    authority=com.google.android.gms.icing.proxy.apps
+  * ContentProviderRecord{11feb1b u37 com.lenovo.ideafriend/.contacts.simcontact.SimFavoriteProvider}
+    proc=ProcessRecord{1a3e097a 27629:com.lenovo.ideafriend/u37a39}
+    authority=com.lenovo.ideafriend.provider.simfavorite
+  * ContentProviderRecord{1c721c38 u37 com.google.android.gsf/.gservices.GservicesProvider}
+    proc=ProcessRecord{1e606108 27218:com.google.process.gapps/u37a8}
+    launchingApp=ProcessRecord{1e606108 27218:com.google.process.gapps/u37a8}
+    authority=com.google.android.gsf.gservices
+  * ContentProviderRecord{61b84b8 u37 com.google.android.syncadapters.contacts/.GalProvider}
+    proc=ProcessRecord{1e606108 27218:com.google.process.gapps/u37a8}
+    authority=com.google.contacts.gal.provider
+  * ContentProviderRecord{1a77c291 u37 com.google.android.googlequicksearchbox/com.google.android.search.core.google.GoogleSuggestionProvider}
+    proc=ProcessRecord{108fb531 28372:com.google.android.googlequicksearchbox:search/u37a36}
+    authority=com.google.android.googlequicksearchbox.google
+  * ContentProviderRecord{f6c35f6 u37 com.google.android.gms/.icing.proxy.SmsContentProvider}
+    proc=ProcessRecord{13629ed4 21951:com.google.android.gms/u37a8}
+    authority=com.google.android.gms.icing.proxy.sms
+  * ContentProviderRecord{1bc81df7 u37 com.android.providers.media/.MediaDocumentsProvider}
+    proc=ProcessRecord{8c5ea6c 28065:android.process.media/u37a5}
+    authority=com.android.providers.media.documents
+  * ContentProviderRecord{11603464 u37 com.google.android.gms/.common.stats.net.contentprovider.NetworkUsageContentProvider}
+    proc=ProcessRecord{13629ed4 21951:com.google.android.gms/u37a8}
+    authority=com.google.android.gms.common.stats.net.contentprovider
+  * ContentProviderRecord{1f44f6cd u37 com.google.android.gms/com.google.android.libraries.social.autobackup.AutoBackupProvider}
+    proc=ProcessRecord{13629ed4 21951:com.google.android.gms/u37a8}
+    authority=com.google.android.gms.photos.iu.EsGoogleIuProvider
+  * ContentProviderRecord{31dbb82 u37 com.lenovo.ideafriend/android.support.v4.content.FileProvider}
+    proc=ProcessRecord{1a3e097a 27629:com.lenovo.ideafriend/u37a39}
+    authority=com.android.contacts.files
+  * ContentProviderRecord{b56a293 u37 com.google.android.gms/.reminders.provider.RemindersProvider}
+    proc=ProcessRecord{13629ed4 21951:com.google.android.gms/u37a8}
+    authority=com.google.android.gms.reminders
+  * ContentProviderRecord{a1e32d0 u37 com.google.android.gms/.auth.CredentialStateContentProvider}
+    proc=ProcessRecord{13629ed4 21951:com.google.android.gms/u37a8}
+    authority=com.google.android.gms.auth.confirm
+  * ContentProviderRecord{1f3732c9 u37 com.android.settings/.search.SettingsSearchIndexablesProvider}
+    proc=ProcessRecord{3c83f29 27081:com.android.settings/u37s1000}
+    authority=com.android.settings
+  * ContentProviderRecord{c700dce u37 com.google.android.gms/.auth.api.credentials.sync.CredentialContentProvider}
+    proc=ProcessRecord{13629ed4 21951:com.google.android.gms/u37a8}
+    authority=com.google.android.gms.auth.api.credentials
+  * ContentProviderRecord{b3ed4ef u37 com.google.android.gms/.ads.adinfo.AdvertisingInfoContentProvider}
+    proc=ProcessRecord{13629ed4 21951:com.google.android.gms/u37a8}
+    authority=com.google.android.gms.ads.adinfo
+  * ContentProviderRecord{e7babfc u37 com.google.android.gms/.people.debug.PeopleExportProvider}
+    proc=ProcessRecord{13629ed4 21951:com.google.android.gms/u37a8}
+    authority=com.google.android.gms.people.export
+  * ContentProviderRecord{19f73285 u37 com.google.android.gms/.auth.be.AccountContentProvider}
+    proc=ProcessRecord{1978f0ec 22000:com.google.android.gms.persistent/u37a8}
+    authority=com.google.android.gms.auth.accounts
+  * ContentProviderRecord{178338da u37 com.google.android.gms/android.support.v4.content.FileProvider}
+    proc=ProcessRecord{13629ed4 21951:com.google.android.gms/u37a8}
+    authority=com.google.android.gms.photos.autobackup.debugfileprovider
+  * ContentProviderRecord{10cdd10b u37 com.lenovo.ideafriend/.privatecommunication.provider.PrivateSpaceProvider}
+    proc=ProcessRecord{1a3e097a 27629:com.lenovo.ideafriend/u37a39}
+    authority=com.lenovo.ideafriend.privatecommunication.provider
+  * ContentProviderRecord{16d58be8 u37 com.lenovo.updateassist/com.lenovo.vibeui.blockedprovider.BlockedSmsProvider}
+    proc=ProcessRecord{1d9749e4 27813:com.lenovo.updateassist/u37a35}
+    authority=blocked-sms
+  * ContentProviderRecord{6fd7201 u37 com.google.android.gms/.chromesync.sync.SyncContentProvider}
+    proc=ProcessRecord{13629ed4 21951:com.google.android.gms/u37a8}
+    authority=com.google.android.gms.chromesync
+  * ContentProviderRecord{6c08a6 u37 com.lenovo.updateassist/com.lenovo.vibeui.blockedprovider.BlockNumberQueryProvider}
+    proc=ProcessRecord{1d9749e4 27813:com.lenovo.updateassist/u37a35}
+    authority=com.lenovo.vibeui.blocknum.BlockNumberQueryProvider
+  * ContentProviderRecord{f0672e7 u37 com.lenovo.ideafriend/.suggestions.provider.ContactsSuggestionsProvider}
+    proc=ProcessRecord{1a3e097a 27629:com.lenovo.ideafriend/u37a39}
+    authority=com.lenovo.ideafriend.provider.suggestions
+
+ACTIVITY MANAGER SERVICES (dumpsys activity services)
+  User 0 active services:
+  * ServiceRecord{26b7e94 u0 com.android.bluetooth/.hid.HidService}
+    app=null
+    created=-1d2h20m43s799ms started=false connections=0
+  * ServiceRecord{2ce2d3d u0 com.google.android.music/.dial.DialMediaRouteProviderService}
+    app=null
+    created=-1d2h26m5s586ms started=false connections=0
+  * ServiceRecord{16427a4e u0 com.lenovo.ideafriend/.suggestions.service.ContactsSuggestionsMonitorService}
+    app=ProcessRecord{1725756a 27387:com.lenovo.ideafriend/u0a39}
+    created=-1d2h30m48s635ms started=true connections=0
+  * ServiceRecord{9c2274f u0 com.lenovo.lsf/.account.service.IDService}
+    app=ProcessRecord{1dc00932 27890:com.lenovo.lsf/u0a14}
+    created=-16h12m15s719ms started=true connections=0
+  * ServiceRecord{12663c89 u0 com.google.android.music/.download.TrackDownloadQueueService}
+    app=ProcessRecord{136d6f0f 21310:com.google.android.music:main/u0a69}
+    created=-1d2h13m3s630ms started=false connections=1
+    Connections:
+       -> 21310:com.google.android.music:main/u0a69
+  * ServiceRecord{14afa0ef u0 com.google.android.music/.playback.MusicPlaybackService}
+    app=ProcessRecord{136d6f0f 21310:com.google.android.music:main/u0a69}
+    created=-1d2h13m3s870ms started=true connections=2
+    Connections:
+       -> 21288:com.google.android.music:ui/u0a69
+       -> 21288:com.google.android.music:ui/u0a69
+  * ServiceRecord{bdfced6 u0 com.lenovo.multiwindow/.MultiWinService}
+    app=ProcessRecord{b48b2f1 3949:com.lenovo.multiwindow/1000}
+    created=-1d2h30m39s236ms started=true connections=0
+  * ServiceRecord{1e8ee0b9 u0 com.android.systemui/.keyguard.KeyguardService}
+    app=ProcessRecord{1d1935f0 3548:com.android.systemui/u0a21}
+    created=-1d2h30m53s942ms started=false connections=1
+    Connections:
+       -> 3398:system/1000
+  * ServiceRecord{1c3d5683 u0 com.android.bluetooth/.btservice.AdapterService}
+    app=null
+    created=-1d2h20m31s718ms started=false connections=1
+    Connections:
+      act=android.bluetooth.IBluetooth -> 3398:system/1000
+  * ServiceRecord{c79bff1 u0 com.android.systemui/.usb.BatteryInfoService}
+    app=ProcessRecord{1d1935f0 3548:com.android.systemui/u0a21}
+    created=-1d2h30m56s231ms started=true connections=0
+  * ServiceRecord{52774e u0 com.lenovo.updateassist/com.lenovo.weather.service.AlarmTaskService}
+    app=ProcessRecord{be35249 27800:com.lenovo.updateassist/u0a35}
+    created=-6m53s848ms started=true connections=0
+  * ServiceRecord{f4382f9 u0 com.android.systemui/.ImageWallpaper}
+    app=ProcessRecord{1d1935f0 3548:com.android.systemui/u0a21}
+    created=-1d2h10m43s366ms started=false connections=1
+    Connections:
+      act=android.service.wallpaper.WallpaperService -> 3398:system/1000
+  * ServiceRecord{1550bad7 u0 com.google.android.inputmethod.latin/com.android.inputmethod.latin.spellcheck.AndroidSpellCheckerService}
+    app=ProcessRecord{c47bf4d 27848:com.google.android.inputmethod.latin/u0a62}
+    created=-1d2h10m27s253ms started=false connections=1
+    Connections:
+      act=android.service.textservice.SpellCheckerService -> 3398:system/1000
+  * ServiceRecord{1d8a9ff6 u0 com.google.android.gms/com.google.android.location.geocode.GeocodeService}
+    app=ProcessRecord{3fd0bff 4154:com.google.android.gms.persistent/u0a8}
+    created=-50s291ms started=false connections=1
+    Connections:
+      act=com.android.location.service.GeocodeProvider pkg=com.google.android.gms -> 3398:system/1000
+  * ServiceRecord{1474f51b u0 com.lenovo.lsf.device/com.lenovo.lsf.push.service.PushService}
+    app=ProcessRecord{95d0c01 25696:com.lenovo.lsf.device/u0a13}
+    created=-30m23s597ms started=true connections=0
+  * ServiceRecord{89560d2 u0 com.google.android.gms/.trustagent.api.trustagent.GoogleTrustAgentService}
+    app=ProcessRecord{3fd0bff 4154:com.google.android.gms.persistent/u0a8}
+    created=-1d2h30m49s696ms started=false connections=1
+    Connections:
+      act=com.google.android.gms.trustagent.GoogleTrustAgentApi.START pkg=com.google.android.gms -> 4154:com.google.android.gms.persistent/u0a8
+  * ServiceRecord{4040c00 u0 com.google.android.music/.download.cache.TrackCacheService}
+    app=ProcessRecord{136d6f0f 21310:com.google.android.music:main/u0a69}
+    created=-1d2h13m3s852ms started=false connections=2
+    Connections:
+       -> 21310:com.google.android.music:main/u0a69
+       -> 21288:com.google.android.music:ui/u0a69
+  * ServiceRecord{11947532 u0 com.google.android.gms/.gcm.GcmService}
+    app=ProcessRecord{552ea1b 3744:com.google.process.gapps/u0a8}
+    created=-1d2h30m52s814ms started=true connections=0
+  * ServiceRecord{148d31f6 u0 com.google.android.music/.download.artwork.ArtDownloadService}
+    app=ProcessRecord{136d6f0f 21310:com.google.android.music:main/u0a69}
+    created=-1d2h13m3s901ms started=false connections=1
+    Connections:
+       -> 21310:com.google.android.music:main/u0a69
+  * ServiceRecord{1dc404a6 u0 com.google.android.music/.store.MediaStoreImportService}
+    app=ProcessRecord{136d6f0f 21310:com.google.android.music:main/u0a69}
+    created=-1d2h13m3s858ms started=false connections=1
+    Connections:
+       -> 21288:com.google.android.music:ui/u0a69
+  * ServiceRecord{129de8cd u0 com.google.android.gms/com.google.android.location.fused.service.FusedProviderService}
+    app=ProcessRecord{3fd0bff 4154:com.google.android.gms.persistent/u0a8}
+    created=-50s289ms started=false connections=1
+    Connections:
+      act=com.android.location.service.FusedProvider pkg=com.google.android.gms -> 3398:system/1000
+  * ServiceRecord{60ba9a5 u0 com.google.android.music/.preferences.MusicPreferenceService$MusicPreferenceServiceBinder}
+    app=ProcessRecord{136d6f0f 21310:com.google.android.music:main/u0a69}
+    created=-1d2h13m4s285ms started=false connections=2
+    Connections:
+       -> 21310:com.google.android.music:main/u0a69
+       -> 21288:com.google.android.music:ui/u0a69
+  * ServiceRecord{2cbf000 u0 com.android.bluetooth/.pbap.BluetoothPbapService}
+    app=null
+    created=-1d2h20m43s582ms started=false connections=0
+  * ServiceRecord{1cd5e8c3 u0 com.lenovo.smartswitch/.SmartSwitchService}
+    app=ProcessRecord{7a0d0c0 27719:com.lenovo.smartswitch/1000}
+    created=-1d2h30m43s454ms started=true connections=0
+  * ServiceRecord{550ed1b u0 com.google.android.gms/com.google.android.location.fused.FusedLocationService}
+    app=ProcessRecord{3fd0bff 4154:com.google.android.gms.persistent/u0a8}
+    created=-50s292ms started=false connections=1
+    Connections:
+      act=com.android.location.service.FusedLocationProvider pkg=com.google.android.gms -> 3398:system/1000
+  * ServiceRecord{b13593d u0 com.google.android.music/.store.StoreService$StoreServiceBinder}
+    app=ProcessRecord{136d6f0f 21310:com.google.android.music:main/u0a69}
+    created=-1d2h13m3s855ms started=false connections=1
+    Connections:
+       -> 21288:com.google.android.music:ui/u0a69
+  * ServiceRecord{13f56039 u0 com.android.bluetooth/.a2dp.A2dpService}
+    app=null
+    created=-1d2h20m43s772ms started=false connections=0
+  * ServiceRecord{13b94cd0 u0 com.google.android.gms/com.google.android.location.geofencer.service.GeofenceProviderService}
+    app=ProcessRecord{3fd0bff 4154:com.google.android.gms.persistent/u0a8}
+    created=-50s287ms started=false connections=1
+    Connections:
+      act=com.android.location.service.GeofenceProvider pkg=com.google.android.gms -> 3398:system/1000
+  * ServiceRecord{85f5c23 u0 com.google.android.talk/com.google.android.libraries.hangouts.video.CallService}
+    app=ProcessRecord{6d091b4 28468:com.google.android.talk/u0a60}
+    created=-8s684ms started=false connections=1
+    Connections:
+       -> 28468:com.google.android.talk/u0a60
+  * ServiceRecord{1a5b4727 u0 com.android.systemui/.SystemUIService}
+    app=ProcessRecord{1d1935f0 3548:com.android.systemui/u0a21}
+    created=-1d2h30m59s258ms started=true connections=0
+  * ServiceRecord{15a36f4c u0 com.intel.thermal/.ThermalService}
+    app=ProcessRecord{309537f 3933:com.intel.thermal/1000}
+    created=-1d2h30m55s293ms started=true connections=0
+  * ServiceRecord{18726806 u0 android/.hardware.location.GeofenceHardwareService}
+    app=ProcessRecord{82fc1d6 3398:system/1000}
+    created=-1d2h30m55s625ms started=false connections=1
+    Connections:
+       -> 3398:system/1000
+  * ServiceRecord{17683fb6 u0 com.android.systemui/.lenovo.settings.InitNotificationSettingsService}
+    app=ProcessRecord{1d1935f0 3548:com.android.systemui/u0a21}
+    created=-1d2h30m49s118ms started=true connections=0
+  * ServiceRecord{1d28bd23 u0 com.google.android.gms/.auth.trustagent.GoogleTrustAgent}
+    app=ProcessRecord{3fd0bff 4154:com.google.android.gms.persistent/u0a8}
+    created=-53s948ms started=false connections=1
+    Connections:
+       -> 3398:system/1000
+  * ServiceRecord{1050b5a9 u0 com.google.android.music/.download.cache.ArtCacheService}
+    app=ProcessRecord{136d6f0f 21310:com.google.android.music:main/u0a69}
+    created=-1d2h13m3s778ms started=false connections=1
+    Connections:
+       -> 21310:com.google.android.music:main/u0a69
+  * ServiceRecord{13694588 u0 com.google.android.music/.net.NetworkMonitor}
+    app=ProcessRecord{136d6f0f 21310:com.google.android.music:main/u0a69}
+    created=-1d2h13m4s123ms started=false connections=6
+    Connections:
+       -> 21310:com.google.android.music:main/u0a69
+       -> 21310:com.google.android.music:main/u0a69
+       -> 21310:com.google.android.music:main/u0a69
+       -> 21288:com.google.android.music:ui/u0a69
+       -> 21310:com.google.android.music:main/u0a69
+       -> 21310:com.google.android.music:main/u0a69
+  * ServiceRecord{1349e81b u0 com.lenovo.weather.theme.dreamlandPad/.UpdateAppWidgetService32}
+    app=ProcessRecord{d63dbbe 20953:com.lenovo.weather.theme.dreamlandPad/u0a27}
+    created=-1d2h30m54s963ms started=true connections=0
+  * ServiceRecord{1bea875 u0 com.android.server.telecom/.BluetoothPhoneService}
+    app=ProcessRecord{82fc1d6 3398:system/1000}
+    created=-1d2h30m55s253ms started=true connections=0
+  * ServiceRecord{1299cf0e u0 com.google.android.gms/com.google.android.location.internal.server.GoogleLocationService}
+    app=ProcessRecord{3fd0bff 4154:com.google.android.gms.persistent/u0a8}
+    created=-1d2h30m53s505ms started=true connections=0
+  * ServiceRecord{23363c2 u0 com.lenovo.ideafriend/.contacts.simcontact.StartSIMService}
+    app=ProcessRecord{1725756a 27387:com.lenovo.ideafriend/u0a39}
+    created=-1d2h30m49s985ms started=true connections=0
+  * ServiceRecord{a24f1cc u0 com.google.android.gms/com.google.android.location.network.NetworkLocationService}
+    app=ProcessRecord{3fd0bff 4154:com.google.android.gms.persistent/u0a8}
+    created=-50s299ms started=false connections=1
+    Connections:
+      act=com.android.location.service.v3.NetworkLocationProvider pkg=com.google.android.gms -> 3398:system/1000
+  * ServiceRecord{3728f7b u0 com.google.android.gms/com.google.android.location.internal.GoogleLocationManagerService}
+    app=ProcessRecord{3fd0bff 4154:com.google.android.gms.persistent/u0a8}
+    created=-1d2h30m53s839ms started=true connections=2
+    Connections:
+      act=com.google.android.location.internal.GoogleLocationManagerService.START pkg=com.google.android.gms -> 4154:com.google.android.gms.persistent/u0a8
+      act=com.google.android.location.internal.GoogleLocationManagerService.START pkg=com.google.android.gms -> 3744:com.google.process.gapps/u0a8
+  * ServiceRecord{173cd23e u0 com.google.android.inputmethod.latin/com.android.inputmethod.latin.LatinIME}
+    app=ProcessRecord{c47bf4d 27848:com.google.android.inputmethod.latin/u0a62}
+    created=-1d2h10m43s390ms started=false connections=1
+    Connections:
+      act=android.view.InputMethod -> 3398:system/1000
+  * ServiceRecord{d6bdee2 u0 com.google.android.music/.download.ArtDownloadQueueService}
+    app=ProcessRecord{136d6f0f 21310:com.google.android.music:main/u0a69}
+    created=-1d2h13m3s781ms started=false connections=1
+    Connections:
+       -> 21310:com.google.android.music:main/u0a69
+  * ServiceRecord{1b9be8ed u0 com.android.providers.media/.MtpService}
+    app=ProcessRecord{2981b55 28020:android.process.media/u0a5}
+    created=-59s821ms started=true connections=1
+    Connections:
+       -> 28020:android.process.media/u0a5
+  * ServiceRecord{1a00aa74 u0 com.intel.widi.uibc/.WidiInputService}
+    app=ProcessRecord{7e1867e 26411:com.intel.widi.uibc/1000}
+    created=-1d2h30m38s960ms started=true connections=0
+  * ServiceRecord{19b16da0 u0 com.google.android.gms/.deviceconnection.service.DeviceConnectionServiceBroker}
+    app=ProcessRecord{3fd0bff 4154:com.google.android.gms.persistent/u0a8}
+    created=-1d2h30m53s68ms started=true connections=0
+  * ServiceRecord{1d955645 u0 com.lenovo.notifier/.Notifier}
+    app=ProcessRecord{1574d7df 27784:com.lenovo.notifier/u0a22}
+    created=-1d2h30m41s986ms started=true connections=0
+  * ServiceRecord{ab127ca u0 com.dolby/.dax.service.DsService}
+    app=ProcessRecord{dcc735 3975:com.dolby/1000}
+    created=-1d2h30m43s423ms started=true connections=1
+    Connections:
+      act=com.dolby.api.IDs -> 27719:com.lenovo.smartswitch/1000
+  * ServiceRecord{8589a8 u0 com.google.android.googlequicksearchbox/com.google.android.voiceinteraction.GsaVoiceInteractionService}
+    app=ProcessRecord{4d3efa1 27825:com.google.android.googlequicksearchbox:interactor/u0a36}
+    created=-1d2h10m43s644ms started=false connections=1
+    Connections:
+      act=android.service.voice.VoiceInteractionService -> 3398:system/1000
+  * ServiceRecord{f6c3753 u0 com.android.smspush/.WapPushManager}
+    app=ProcessRecord{dedab42 4189:com.android.smspush/u0a84}
+    created=-1d2h30m54s718ms started=false connections=2
+    Connections:
+      act=com.android.internal.telephony.IWapPushManager -> 4014:com.android.phone/1001
+      act=com.android.internal.telephony.IWapPushManager -> 4014:com.android.phone/1001
+  * ServiceRecord{75b029e u0 com.lenovo.videoplayer/.VideoWidgetService}
+    app=ProcessRecord{1cc07728 27927:com.lenovo.videoplayer/u0a65}
+    created=-1d2h30m50s886ms started=true connections=0
+  * ServiceRecord{89f5c2d u0 android/com.android.internal.backup.LocalTransportService}
+    app=ProcessRecord{82fc1d6 3398:system/1000}
+    created=-1d2h30m59s484ms started=false connections=1
+    Connections:
+      act=android.backup.TRANSPORT_HOST -> 3398:system/1000
+  * ServiceRecord{5329ad6 u0 com.google.android.gms/.playlog.service.PlayLogBrokerService}
+    app=ProcessRecord{552ea1b 3744:com.google.process.gapps/u0a8}
+    created=-1d2h14m5s967ms started=false connections=1
+    Connections:
+      act=com.google.android.gms.playlog.service.START pkg=com.google.android.gms -> 21131:com.google.android.youtube/u0a86
+  * ServiceRecord{183c5987 u0 com.google.android.youtube/com.google.android.apps.youtube.app.offline.transfer.OfflineTransferService}
+    app=ProcessRecord{be63625 21131:com.google.android.youtube/u0a86}
+    created=-1d2h13m12s144ms started=false connections=1
+    Connections:
+       -> 21131:com.google.android.youtube/u0a86
+  * ServiceRecord{1248c451 u0 com.google.android.gms/.common.stats.GmsCoreStatsService}
+    app=ProcessRecord{3fd0bff 4154:com.google.android.gms.persistent/u0a8}
+    created=-1d2h30m52s572ms started=true connections=0
+  * ServiceRecord{628f317 u0 com.lenovo.paperdisplay/.PaperDisplayService}
+    app=ProcessRecord{12c4bf9f 27736:com.lenovo.paperdisplay/u0a73}
+    created=-1d2h30m49s787ms started=true connections=0
+  * ServiceRecord{12000c2c u0 com.android.bluetooth/.map.BluetoothMapService}
+    app=null
+    created=-1d2h20m43s876ms started=false connections=0
+  * ServiceRecord{69b166d u0 com.android.phone/.TelephonyDebugService}
+    app=ProcessRecord{b40af63 4014:com.android.phone/1001}
+    created=-1d2h30m54s436ms started=true connections=0
+  * ServiceRecord{683f728 u0 com.android.server.telecom/.TelecomService}
+    app=ProcessRecord{82fc1d6 3398:system/1000}
+    created=-1d2h30m59s395ms started=false connections=1
+    Connections:
+      act=com.android.ITelecomService -> 3398:system/1000
+  * ServiceRecord{3c2c6f5 u0 com.android.bluetooth/.pan.PanService}
+    app=null
+    created=-1d2h20m43s861ms started=false connections=0
+  * ServiceRecord{9a5efd9 u0 com.lenovo.powersetting/.apprestriction.CleanupService}
+    app=ProcessRecord{90b8c8a 4744:com.lenovo.powersetting:service/1000}
+    created=-1d2h30m48s834ms started=true connections=0
+  * ServiceRecord{1eed1010 u0 com.google.android.gms/.backup.BackupTransportService}
+    app=ProcessRecord{3fd0bff 4154:com.google.android.gms.persistent/u0a8}
+    created=-50s341ms started=false connections=1
+    Connections:
+      act=android.backup.TRANSPORT_HOST -> 3398:system/1000
+
+  User 37 active services:
+  * ServiceRecord{1d1b9cd4 u37 com.lenovo.ideafriend/.suggestions.service.ContactsSuggestionsMonitorService}
+    app=ProcessRecord{1a3e097a 27629:com.lenovo.ideafriend/u37a39}
+    created=-1d2h10m39s406ms started=true connections=0
+  * ServiceRecord{143d7bd7 u37 com.lenovo.lsf/.account.service.IDService}
+    app=ProcessRecord{1b7912fb 27911:com.lenovo.lsf/u37a14}
+    created=-16h12m12s491ms started=true connections=0
+  * ServiceRecord{351f7e0 u37 com.google.android.tts/.service.GoogleTTSService}
+    app=ProcessRecord{73a6953 27467:com.google.android.tts/u37a58}
+    created=-1d2h10m57s785ms started=false connections=1
+    Connections:
+      act=android.intent.action.TTS_SERVICE pkg=com.google.android.tts -> 27364:com.google.android.setupwizard/u37a33
+  * ServiceRecord{12f400e8 u37 com.lenovo.multiwindow/.MultiWinService}
+    app=ProcessRecord{1f77bf18 27531:com.lenovo.multiwindow/u37s1000}
+    created=-1d2h10m31s879ms started=true connections=0
+  * ServiceRecord{1765c5cb u37 com.android.vending/com.google.android.finsky.services.DailyHygiene}
+    app=null
+    created=-7m32s525ms started=true connections=0
+  * ServiceRecord{1c461e4d u37 com.lenovo.updateassist/com.lenovo.weather.service.AlarmTaskService}
+    app=ProcessRecord{1d9749e4 27813:com.lenovo.updateassist/u37a35}
+    created=-6m53s854ms started=true connections=0
+  * ServiceRecord{c37f48f u37 com.lenovo.lsf.device/com.lenovo.lsf.push.service.PushService}
+    app=ProcessRecord{6b6b25 25930:com.lenovo.lsf.device/u37a13}
+    created=-30m21s924ms started=true connections=0
+  * ServiceRecord{457c921 u37 com.lenovo.smartswitch/.SmartSwitchService}
+    app=ProcessRecord{eabfa85 26390:com.lenovo.smartswitch/u37s1000}
+    created=-1d2h10m38s27ms started=true connections=0
+  * ServiceRecord{6c5dd71 u37 com.google.android.youtube/com.google.android.libraries.youtube.common.gcore.gcoreclient.gcm.impl.GcmTaskServiceDelegator}
+    app=null
+    created=-1d2h9m49s29ms started=true connections=0
+  * ServiceRecord{125813c3 u37 com.google.android.gms/.checkin.CheckinService}
+    app=ProcessRecord{13629ed4 21951:com.google.android.gms/u37a8}
+    created=-7m33s428ms started=true connections=0
+  * ServiceRecord{114a15fb u37 com.google.android.gms/com.google.android.location.reporting.service.DispatchingService}
+    app=ProcessRecord{1978f0ec 22000:com.google.android.gms.persistent/u37a8}
+    created=-58s76ms started=true connections=0
+  * ServiceRecord{60c54c1 u37 com.android.vending/com.google.android.finsky.services.RestoreService}
+    app=null
+    created=-7m32s512ms started=true connections=0
+  * ServiceRecord{5a9109f u37 com.lenovo.weather.theme.dreamlandPad/.UpdateAppWidgetService32}
+    app=ProcessRecord{12b136bd 21852:com.lenovo.weather.theme.dreamlandPad/u37a27}
+    created=-1d2h10m19s36ms started=true connections=0
+  * ServiceRecord{1e6b79a4 u37 com.google.android.gms/com.google.android.location.internal.server.GoogleLocationService}
+    app=ProcessRecord{1978f0ec 22000:com.google.android.gms.persistent/u37a8}
+    created=-1d2h10m51s79ms started=true connections=0
+  * ServiceRecord{fadec29 u37 com.google.android.gms/com.google.android.location.internal.GoogleLocationManagerService}
+    app=ProcessRecord{1978f0ec 22000:com.google.android.gms.persistent/u37a8}
+    created=-1d2h10m51s722ms started=true connections=2
+    Connections:
+      act=com.google.android.location.internal.GoogleLocationManagerService.START pkg=com.google.android.gms -> 22000:com.google.android.gms.persistent/u37a8
+      act=com.google.android.location.internal.GoogleLocationManagerService.START pkg=com.google.android.gms -> 27218:com.google.process.gapps/u37a8
+  * ServiceRecord{135d647a u37 com.android.providers.media/.MtpService}
+    app=ProcessRecord{8c5ea6c 28065:android.process.media/u37a5}
+    created=-59s811ms started=true connections=1
+    Connections:
+       -> 28065:android.process.media/u37a5
+  * ServiceRecord{cee00ad u37 com.intel.widi.uibc/.WidiInputService}
+    app=ProcessRecord{21de756 27271:com.intel.widi.uibc/u37s1000}
+    created=-1d2h10m31s193ms started=true connections=0
+  * ServiceRecord{4ff80fb u37 com.google.android.gms/.deviceconnection.service.DeviceConnectionServiceBroker}
+    app=ProcessRecord{1978f0ec 22000:com.google.android.gms.persistent/u37a8}
+    created=-1d2h10m48s426ms started=true connections=0
+  * ServiceRecord{1f3b75b9 u37 com.lenovo.notifier/.Notifier}
+    app=ProcessRecord{5bbe3d7 27958:com.lenovo.notifier/u37a22}
+    created=-1d2h10m35s675ms started=true connections=0
+  * ServiceRecord{194d5e8a u37 com.dolby/.dax.service.DsService}
+    app=ProcessRecord{4cdcf21 26075:com.dolby/u37s1000}
+    created=-1d2h10m37s941ms started=true connections=1
+    Connections:
+      act=com.dolby.api.IDs -> 26390:com.lenovo.smartswitch/u37s1000
+  * ServiceRecord{e39b3ac u37 com.google.android.gms/.common.stats.GmsCoreStatsService}
+    app=ProcessRecord{1978f0ec 22000:com.google.android.gms.persistent/u37a8}
+    created=-1d2h10m46s511ms started=true connections=0
+  * ServiceRecord{165283df u37 com.lenovo.paperdisplay/.PaperDisplayService}
+    app=ProcessRecord{1fb5b4c4 27757:com.lenovo.paperdisplay/u37a73}
+    created=-1d2h10m42s110ms started=true connections=0
+  * ServiceRecord{e5139f9 u37 com.lenovo.powersetting/.apprestriction.CleanupService}
+    app=ProcessRecord{1109dfad 28182:com.lenovo.powersetting:service/u37s1000}
+    created=-1d2h10m41s292ms started=true connections=0
+
+  Pending services:
+  * Pending ServiceRecord{1c3d5683 u0 com.android.bluetooth/.btservice.AdapterService}
+    intent={act=android.bluetooth.IBluetooth cmp=com.android.bluetooth/.btservice.AdapterService}
+    packageName=com.android.bluetooth
+    processName=com.android.bluetooth
+    baseDir=/system/app/Bluetooth/Bluetooth.apk
+    dataDir=/data/data/com.android.bluetooth
+    app=null
+    createTime=-1d2h20m31s723ms startingBgTimeout=--
+    lastActivity=-4h10m5s681ms restartTime=-- createdFromFg=true
+    Bindings:
+    * IntentBindRecord{102922e2 CREATE}:
+      intent={act=android.bluetooth.IBluetooth cmp=com.android.bluetooth/.btservice.AdapterService}
+      binder=null
+      requested=false received=false hasBound=false doRebind=false
+      * Client AppBindRecord{6f0e673 ProcessRecord{82fc1d6 3398:system/1000}}
+        Per-process Connections:
+          ConnectionRecord{1b629523 u0 CR IMP com.android.bluetooth/.btservice.AdapterService:@198e9e52}
+    All Connections:
+      ConnectionRecord{1b629523 u0 CR IMP com.android.bluetooth/.btservice.AdapterService:@198e9e52}
+  * Pending ServiceRecord{6c5dd71 u37 com.google.android.youtube/com.google.android.libraries.youtube.common.gcore.gcoreclient.gcm.impl.GcmTaskServiceDelegator}
+    intent={act=com.google.android.gms.gcm.ACTION_TASK_READY cmp=com.google.android.youtube/com.google.android.libraries.youtube.common.gcore.gcoreclient.gcm.impl.GcmTaskServiceDelegator}
+    packageName=com.google.android.youtube
+    processName=com.google.android.youtube
+    permission=com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE
+    baseDir=/system/app/YouTube/YouTube.apk
+    dataDir=/data/user/37/com.google.android.youtube
+    app=null
+    createTime=-1d2h9m49s30ms startingBgTimeout=--
+    lastActivity=-35s381ms restartTime=-- createdFromFg=false
+    startRequested=true delayedStop=false stopIfKilled=false callStart=false lastStartId=47
+    Pending Starts:
+    #0 id=1
+      intent=Intent { act=com.google.android.gms.gcm.ACTION_TASK_READY cmp=com.google.android.youtube/com.google.android.libraries.youtube.common.gcore.gcoreclient.gcm.impl.GcmTaskServiceDelegator (has extras) }
+    #1 id=2
+      intent=Intent { act=com.google.android.gms.gcm.ACTION_TASK_READY cmp=com.google.android.youtube/com.google.android.libraries.youtube.common.gcore.gcoreclient.gcm.impl.GcmTaskServiceDelegator (has extras) }
+    #2 id=3
+      intent=Intent { act=com.google.android.gms.gcm.ACTION_TASK_READY cmp=com.google.android.youtube/com.google.android.libraries.youtube.common.gcore.gcoreclient.gcm.impl.GcmTaskServiceDelegator (has extras) }
+    #3 id=4
+      intent=Intent { act=com.google.android.gms.gcm.ACTION_TASK_READY cmp=com.google.android.youtube/com.google.android.libraries.youtube.common.gcore.gcoreclient.gcm.impl.GcmTaskServiceDelegator (has extras) }
+    #4 id=5
+      intent=Intent { act=com.google.android.gms.gcm.ACTION_TASK_READY cmp=com.google.android.youtube/com.google.android.libraries.youtube.common.gcore.gcoreclient.gcm.impl.GcmTaskServiceDelegator (has extras) }
+    #5 id=6
+      intent=Intent { act=com.google.android.gms.gcm.ACTION_TASK_READY cmp=com.google.android.youtube/com.google.android.libraries.youtube.common.gcore.gcoreclient.gcm.impl.GcmTaskServiceDelegator (has extras) }
+    #6 id=7
+      intent=Intent { act=com.google.android.gms.gcm.ACTION_TASK_READY cmp=com.google.android.youtube/com.google.android.libraries.youtube.common.gcore.gcoreclient.gcm.impl.GcmTaskServiceDelegator (has extras) }
+    #7 id=8
+      intent=Intent { act=com.google.android.gms.gcm.ACTION_TASK_READY cmp=com.google.android.youtube/com.google.android.libraries.youtube.common.gcore.gcoreclient.gcm.impl.GcmTaskServiceDelegator (has extras) }
+    #8 id=9
+      intent=Intent { act=com.google.android.gms.gcm.ACTION_TASK_READY cmp=com.google.android.youtube/com.google.android.libraries.youtube.common.gcore.gcoreclient.gcm.impl.GcmTaskServiceDelegator (has extras) }
+    #9 id=10
+      intent=Intent { act=com.google.android.gms.gcm.ACTION_TASK_READY cmp=com.google.android.youtube/com.google.android.libraries.youtube.common.gcore.gcoreclient.gcm.impl.GcmTaskServiceDelegator (has extras) }
+    #10 id=11
+      intent=Intent { act=com.google.android.gms.gcm.ACTION_TASK_READY cmp=com.google.android.youtube/com.google.android.libraries.youtube.common.gcore.gcoreclient.gcm.impl.GcmTaskServiceDelegator (has extras) }
+    #11 id=12
+      intent=Intent { act=com.google.android.gms.gcm.ACTION_TASK_READY cmp=com.google.android.youtube/com.google.android.libraries.youtube.common.gcore.gcoreclient.gcm.impl.GcmTaskServiceDelegator (has extras) }
+    #12 id=13
+      intent=Intent { act=com.google.android.gms.gcm.ACTION_TASK_READY cmp=com.google.android.youtube/com.google.android.libraries.youtube.common.gcore.gcoreclient.gcm.impl.GcmTaskServiceDelegator (has extras) }
+    #13 id=14
+      intent=Intent { act=com.google.android.gms.gcm.ACTION_TASK_READY cmp=com.google.android.youtube/com.google.android.libraries.youtube.common.gcore.gcoreclient.gcm.impl.GcmTaskServiceDelegator (has extras) }
+    #14 id=15
+      intent=Intent { act=com.google.android.gms.gcm.ACTION_TASK_READY cmp=com.google.android.youtube/com.google.android.libraries.youtube.common.gcore.gcoreclient.gcm.impl.GcmTaskServiceDelegator (has extras) }
+    #15 id=16
+      intent=Intent { act=com.google.android.gms.gcm.ACTION_TASK_READY cmp=com.google.android.youtube/com.google.android.libraries.youtube.common.gcore.gcoreclient.gcm.impl.GcmTaskServiceDelegator (has extras) }
+    #16 id=17
+      intent=Intent { act=com.google.android.gms.gcm.ACTION_TASK_READY cmp=com.google.android.youtube/com.google.android.libraries.youtube.common.gcore.gcoreclient.gcm.impl.GcmTaskServiceDelegator (has extras) }
+    #17 id=18
+      intent=Intent { act=com.google.android.gms.gcm.ACTION_TASK_READY cmp=com.google.android.youtube/com.google.android.libraries.youtube.common.gcore.gcoreclient.gcm.impl.GcmTaskServiceDelegator (has extras) }
+    #18 id=19
+      intent=Intent { act=com.google.android.gms.gcm.ACTION_TASK_READY cmp=com.google.android.youtube/com.google.android.libraries.youtube.common.gcore.gcoreclient.gcm.impl.GcmTaskServiceDelegator (has extras) }
+    #19 id=20
+      intent=Intent { act=com.google.android.gms.gcm.ACTION_TASK_READY cmp=com.google.android.youtube/com.google.android.libraries.youtube.common.gcore.gcoreclient.gcm.impl.GcmTaskServiceDelegator (has extras) }
+    #20 id=21
+      intent=Intent { act=com.google.android.gms.gcm.ACTION_TASK_READY cmp=com.google.android.youtube/com.google.android.libraries.youtube.common.gcore.gcoreclient.gcm.impl.GcmTaskServiceDelegator (has extras) }
+    #21 id=22
+      intent=Intent { act=com.google.android.gms.gcm.ACTION_TASK_READY cmp=com.google.android.youtube/com.google.android.libraries.youtube.common.gcore.gcoreclient.gcm.impl.GcmTaskServiceDelegator (has extras) }
+    #22 id=23
+      intent=Intent { act=com.google.android.gms.gcm.ACTION_TASK_READY cmp=com.google.android.youtube/com.google.android.libraries.youtube.common.gcore.gcoreclient.gcm.impl.GcmTaskServiceDelegator (has extras) }
+    #23 id=24
+      intent=Intent { act=com.google.android.gms.gcm.ACTION_TASK_READY cmp=com.google.android.youtube/com.google.android.libraries.youtube.common.gcore.gcoreclient.gcm.impl.GcmTaskServiceDelegator (has extras) }
+    #24 id=25
+      intent=Intent { act=com.google.android.gms.gcm.ACTION_TASK_READY cmp=com.google.android.youtube/com.google.android.libraries.youtube.common.gcore.gcoreclient.gcm.impl.GcmTaskServiceDelegator (has extras) }
+    #25 id=26
+      intent=Intent { act=com.google.android.gms.gcm.ACTION_TASK_READY cmp=com.google.android.youtube/com.google.android.libraries.youtube.common.gcore.gcoreclient.gcm.impl.GcmTaskServiceDelegator (has extras) }
+    #26 id=27
+      intent=Intent { act=com.google.android.gms.gcm.ACTION_TASK_READY cmp=com.google.android.youtube/com.google.android.libraries.youtube.common.gcore.gcoreclient.gcm.impl.GcmTaskServiceDelegator (has extras) }
+    #27 id=28
+      intent=Intent { act=com.google.android.gms.gcm.ACTION_TASK_READY cmp=com.google.android.youtube/com.google.android.libraries.youtube.common.gcore.gcoreclient.gcm.impl.GcmTaskServiceDelegator (has extras) }
+    #28 id=29
+      intent=Intent { act=com.google.android.gms.gcm.ACTION_TASK_READY cmp=com.google.android.youtube/com.google.android.libraries.youtube.common.gcore.gcoreclient.gcm.impl.GcmTaskServiceDelegator (has extras) }
+    #29 id=30
+      intent=Intent { act=com.google.android.gms.gcm.ACTION_TASK_READY cmp=com.google.android.youtube/com.google.android.libraries.youtube.common.gcore.gcoreclient.gcm.impl.GcmTaskServiceDelegator (has extras) }
+    #30 id=31
+      intent=Intent { act=com.google.android.gms.gcm.ACTION_TASK_READY cmp=com.google.android.youtube/com.google.android.libraries.youtube.common.gcore.gcoreclient.gcm.impl.GcmTaskServiceDelegator (has extras) }
+    #31 id=32
+      intent=Intent { act=com.google.android.gms.gcm.ACTION_TASK_READY cmp=com.google.android.youtube/com.google.android.libraries.youtube.common.gcore.gcoreclient.gcm.impl.GcmTaskServiceDelegator (has extras) }
+    #32 id=33
+      intent=Intent { act=com.google.android.gms.gcm.ACTION_TASK_READY cmp=com.google.android.youtube/com.google.android.libraries.youtube.common.gcore.gcoreclient.gcm.impl.GcmTaskServiceDelegator (has extras) }
+    #33 id=34
+      intent=Intent { act=com.google.android.gms.gcm.ACTION_TASK_READY cmp=com.google.android.youtube/com.google.android.libraries.youtube.common.gcore.gcoreclient.gcm.impl.GcmTaskServiceDelegator (has extras) }
+    #34 id=35
+      intent=Intent { act=com.google.android.gms.gcm.ACTION_TASK_READY cmp=com.google.android.youtube/com.google.android.libraries.youtube.common.gcore.gcoreclient.gcm.impl.GcmTaskServiceDelegator (has extras) }
+    #35 id=36
+      intent=Intent { act=com.google.android.gms.gcm.ACTION_TASK_READY cmp=com.google.android.youtube/com.google.android.libraries.youtube.common.gcore.gcoreclient.gcm.impl.GcmTaskServiceDelegator (has extras) }
+    #36 id=37
+      intent=Intent { act=com.google.android.gms.gcm.ACTION_TASK_READY cmp=com.google.android.youtube/com.google.android.libraries.youtube.common.gcore.gcoreclient.gcm.impl.GcmTaskServiceDelegator (has extras) }
+    #37 id=38
+      intent=Intent { act=com.google.android.gms.gcm.ACTION_TASK_READY cmp=com.google.android.youtube/com.google.android.libraries.youtube.common.gcore.gcoreclient.gcm.impl.GcmTaskServiceDelegator (has extras) }
+    #38 id=39
+      intent=Intent { act=com.google.android.gms.gcm.ACTION_TASK_READY cmp=com.google.android.youtube/com.google.android.libraries.youtube.common.gcore.gcoreclient.gcm.impl.GcmTaskServiceDelegator (has extras) }
+    #39 id=40
+      intent=Intent { act=com.google.android.gms.gcm.ACTION_TASK_READY cmp=com.google.android.youtube/com.google.android.libraries.youtube.common.gcore.gcoreclient.gcm.impl.GcmTaskServiceDelegator (has extras) }
+    #40 id=41
+      intent=Intent { act=com.google.android.gms.gcm.ACTION_TASK_READY cmp=com.google.android.youtube/com.google.android.libraries.youtube.common.gcore.gcoreclient.gcm.impl.GcmTaskServiceDelegator (has extras) }
+    #41 id=42
+      intent=Intent { act=com.google.android.gms.gcm.ACTION_TASK_READY cmp=com.google.android.youtube/com.google.android.libraries.youtube.common.gcore.gcoreclient.gcm.impl.GcmTaskServiceDelegator (has extras) }
+    #42 id=43
+      intent=Intent { act=com.google.android.gms.gcm.ACTION_TASK_READY cmp=com.google.android.youtube/com.google.android.libraries.youtube.common.gcore.gcoreclient.gcm.impl.GcmTaskServiceDelegator (has extras) }
+    #43 id=44
+      intent=Intent { act=com.google.android.gms.gcm.ACTION_TASK_READY cmp=com.google.android.youtube/com.google.android.libraries.youtube.common.gcore.gcoreclient.gcm.impl.GcmTaskServiceDelegator (has extras) }
+    #44 id=45
+      intent=Intent { act=com.google.android.gms.gcm.ACTION_TASK_READY cmp=com.google.android.youtube/com.google.android.libraries.youtube.common.gcore.gcoreclient.gcm.impl.GcmTaskServiceDelegator (has extras) }
+    #45 id=46
+      intent=Intent { act=com.google.android.gms.gcm.ACTION_TASK_READY cmp=com.google.android.youtube/com.google.android.libraries.youtube.common.gcore.gcoreclient.gcm.impl.GcmTaskServiceDelegator (has extras) }
+    #46 id=47
+      intent=Intent { act=com.google.android.gms.gcm.ACTION_TASK_READY cmp=com.google.android.youtube/com.google.android.libraries.youtube.common.gcore.gcoreclient.gcm.impl.GcmTaskServiceDelegator (has extras) }
+  * Pending ServiceRecord{60c54c1 u37 com.android.vending/com.google.android.finsky.services.RestoreService}
+    intent={dat=restoreservice://startup cmp=com.android.vending/com.google.android.finsky.services.RestoreService}
+    packageName=com.android.vending
+    processName=com.android.vending
+    baseDir=/system/priv-app/Phonesky/Phonesky.apk
+    dataDir=/data/user/37/com.android.vending
+    app=null
+    createTime=-7m32s515ms startingBgTimeout=--
+    lastActivity=-7m32s515ms restartTime=-7m32s515ms createdFromFg=false
+    startRequested=true delayedStop=false stopIfKilled=false callStart=false lastStartId=1
+    executeNesting=1 executeFg=true executingStart=-7m32s515ms
+    restartCount=1 restartDelay=-4h19m45s449ms nextRestartTime=-6m5s53ms crashCount=0
+    Pending Starts:
+    #0 id=1
+      intent=Intent { dat=restoreservice://startup cmp=com.android.vending/com.google.android.finsky.services.RestoreService (has extras) }
+  * Pending ServiceRecord{1765c5cb u37 com.android.vending/com.google.android.finsky.services.DailyHygiene}
+    intent={cmp=com.android.vending/com.google.android.finsky.services.DailyHygiene}
+    packageName=com.android.vending
+    processName=com.android.vending
+    baseDir=/system/priv-app/Phonesky/Phonesky.apk
+    dataDir=/data/user/37/com.android.vending
+    app=null
+    createTime=-7m32s528ms startingBgTimeout=--
+    lastActivity=-7m32s527ms restartTime=-7m32s527ms createdFromFg=false
+    startRequested=true delayedStop=false stopIfKilled=false callStart=false lastStartId=1
+    restartCount=1 restartDelay=-4h19m35s491ms nextRestartTime=-5m55s53ms crashCount=0
+    Pending Starts:
+    #0 id=1 dc=1
+      intent=Intent { flg=0x4 cmp=com.android.vending/com.google.android.finsky.services.DailyHygiene (has extras) }
+
+ACTIVITY MANAGER RECENT TASKS (dumpsys activity recents)
+  Recent tasks:
+  * Recent #0: TaskRecord{10e7a442 #53 A=com.lenovo.olauncher U=0 sz=1}
+  * Recent #1: TaskRecord{abb5930 #148 I=com.android.settings/com.lenovo.usb.UsbPicker U=0 sz=1}
+  * Recent #2: TaskRecord{1211c9a9 #56 A=com.android.settings U=0 sz=3}
+  * Recent #3: TaskRecord{1eba8b2e #147 A=com.lenovo.EngineeringCode.OffLineLog U=0 sz=1}
+  * Recent #4: TaskRecord{1f6976cf #146 A=android.task.ideafriend U=0 sz=2}
+  * Recent #5: TaskRecord{1534d85c #145 A=com.android.wizard U=37 sz=4}
+  * Recent #6: TaskRecord{535f0e7 #89 A=com.android.systemui U=0 sz=1}
+  * Recent #7: TaskRecord{14945765 #133 A=com.google.android.music.task U=0 sz=1}
+  * Recent #8: TaskRecord{12e82c3a #132 A=com.google.android.youtube U=0 sz=1}
+  * Recent #9: TaskRecord{1930b0eb #131 A=com.lenovo.yogatab3pro U=0 sz=2}
+  * Recent #10: TaskRecord{10651e48 #68 A=com.dolby.daxappUI U=0 sz=1}
+  * Recent #11: TaskRecord{1df804e1 #130 A=com.lenovopad.guide U=0 sz=1}
+  * Recent #12: TaskRecord{1b1cd206 #129 A=com.google.android.apps.photos U=0 sz=2}
+  * Recent #13: TaskRecord{9e770c7 #128 A=com.android.calculator2 U=0 sz=1}
+  * Recent #14: TaskRecord{1cd1d6f4 #127 A=com.google.android.talk U=0 sz=3}
+  * Recent #15: TaskRecord{98f0e1d #126 A=com.google.android.apps.maps U=0 sz=1}
+  * Recent #16: TaskRecord{fa40892 #63 A=com.android.chrome U=0 sz=1}
+  * Recent #17: TaskRecord{16605263 #67 A=com.google.android.gm U=0 sz=2}
+  * Recent #18: TaskRecord{1baf6e60 #66 I=com.google.android.googlequicksearchbox/com.google.android.apps.gsa.searchnow.SearchNowActivity U=0 sz=2}
+  * Recent #19: TaskRecord{1b936f19 #55 I=com.android.vending/com.google.android.vending.verifier.ConsentDialog U=0 sz=0}
+  * Recent #20: TaskRecord{ff61bde #36 A=com.android.camera.CameraActivity U=0 sz=0}
+  * Recent #21: TaskRecord{13fbb1bf #28 A=com.lenovo.fingerpaint U=0 sz=0}
+  * Recent #22: TaskRecord{b0d108c #27 A=com.android.soundrecorder U=0 sz=0}
+  * Recent #23: TaskRecord{68c8d7b #25 I=com.android.settings/.Settings$WifiSettingsActivity U=0 sz=0}
+  * Recent #24: TaskRecord{7e2e3d5 #6 I=com.google.android.googlequicksearchbox/com.google.android.apps.gsa.searchnow.SearchNowActivity U=0 sz=0}
+
+ACTIVITY MANAGER ACTIVITIES (dumpsys activity activities)
+Display #0 (activities from top to bottom):
+  Stack #0:
+    Task id #53
+      TaskRecord{10e7a442 #53 A=com.lenovo.olauncher U=0 sz=1}
+      Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10000000 cmp=com.lenovo.olauncher/com.android.launcher3.Launcher }
+        Hist #0: ActivityRecord{119cebee u0 com.lenovo.olauncher/com.android.launcher3.Launcher t53}
+          Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10000000 cmp=com.lenovo.olauncher/com.android.launcher3.Launcher }
+          ProcessRecord{c61eb5b 18666:com.lenovo.olauncher/u0a19}
+    Task id #89
+      TaskRecord{535f0e7 #89 A=com.android.systemui U=0 sz=1}
+      Intent { act=com.android.systemui.recents.SHOW_RECENTS flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity bnds=[663,1188][1898,2423] }
+        Hist #0: ActivityRecord{13675c5e u0 com.android.systemui/.recents.RecentsActivity t89}
+          Intent { act=com.android.systemui.recents.SHOW_RECENTS flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity bnds=[663,1188][1898,2423] }
+          ProcessRecord{1d1935f0 3548:com.android.systemui/u0a21}
+    Task id #145
+      TaskRecord{1534d85c #145 A=com.android.wizard U=37 sz=4}
+      Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10800000 cmp=com.google.android.setupwizard/.SetupWizardActivity }
+        Hist #3: ActivityRecord{1285315a u37 com.google.android.setupwizard/.WalledGardenActivity t145}
+          Intent { act=com.android.setupwizard.WALLED_GARDEN flg=0x4000000 cmp=com.google.android.setupwizard/.WalledGardenActivity (has extras) }
+          ProcessRecord{717fe1d 27364:com.google.android.setupwizard/u37a33}
+        Hist #2: ActivityRecord{100ec345 u37 com.android.settings/.wifi.WifiSetupActivity t145}
+          Intent { act=com.android.net.wifi.SETUP_WIFI_NETWORK flg=0x2000000 cmp=com.android.settings/.wifi.WifiSetupActivity (has extras) }
+          ProcessRecord{3c83f29 27081:com.android.settings/u37s1000}
+        Hist #1: ActivityRecord{159198f1 u37 com.google.android.setupwizard/.user.WelcomeUserActivity t145}
+          Intent { cmp=com.google.android.setupwizard/.user.WelcomeUserActivity (has extras) }
+          ProcessRecord{717fe1d 27364:com.google.android.setupwizard/u37a33}
+        Hist #0: ActivityRecord{1f510a0a u37 com.google.android.setupwizard/.WelcomeUserWrapper t145}
+          Intent { act=com.android.setupwizard.WELCOME_USER flg=0x4000000 cmp=com.google.android.setupwizard/.WelcomeUserWrapper (has extras) }
+          ProcessRecord{717fe1d 27364:com.google.android.setupwizard/u37a33}
+    Task id #125
+      TaskRecord{8c417ea #125 A=com.android.wizard U=33 sz=1}
+      Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10800000 cmp=com.google.android.setupwizard/.SetupWizardActivity }
+        Hist #0: ActivityRecord{6288c0 u33 com.android.settings/.wifi.WifiSetupActivity t125}
+          Intent { act=com.android.net.wifi.SETUP_WIFI_NETWORK flg=0x2000000 cmp=com.android.settings/.wifi.WifiSetupActivity (has extras) }
+    Task id #116
+      TaskRecord{3c3aadb #116 A=com.android.wizard U=28 sz=1}
+      Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10800000 cmp=com.google.android.setupwizard/.SetupWizardActivity }
+        Hist #0: ActivityRecord{f68acb0 u28 com.android.settings/.wifi.WifiSetupActivity t116}
+          Intent { act=com.android.net.wifi.SETUP_WIFI_NETWORK flg=0x2000000 cmp=com.android.settings/.wifi.WifiSetupActivity (has extras) }
+    Task id #110
+      TaskRecord{18c0a978 #110 A=com.android.wizard U=26 sz=1}
+      Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10800000 cmp=com.google.android.setupwizard/.SetupWizardActivity }
+        Hist #0: ActivityRecord{1691cdc6 u26 com.android.settings/.wifi.WifiSetupActivity t110}
+          Intent { act=com.android.net.wifi.SETUP_WIFI_NETWORK flg=0x2000000 cmp=com.android.settings/.wifi.WifiSetupActivity (has extras) }
+    Task id #98
+      TaskRecord{87ae851 #98 A=com.android.wizard U=21 sz=1}
+      Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10800000 cmp=com.google.android.setupwizard/.SetupWizardActivity }
+        Hist #0: ActivityRecord{194c6feb u21 com.android.settings/.wifi.WifiSetupActivity t98}
+          Intent { act=com.android.net.wifi.SETUP_WIFI_NETWORK flg=0x2000000 cmp=com.android.settings/.wifi.WifiSetupActivity (has extras) }
+    Task id #95
+      TaskRecord{ec3c8b6 #95 A=com.android.wizard U=20 sz=1}
+      Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10800000 cmp=com.google.android.setupwizard/.SetupWizardActivity }
+        Hist #0: ActivityRecord{9548b1 u20 com.android.settings/.wifi.WifiSetupActivity t95}
+          Intent { act=com.android.net.wifi.SETUP_WIFI_NETWORK flg=0x2000000 cmp=com.android.settings/.wifi.WifiSetupActivity (has extras) }
+
+    Running activities (most recent first):
+      TaskRecord{10e7a442 #53 A=com.lenovo.olauncher U=0 sz=1}
+        Run #5: ActivityRecord{119cebee u0 com.lenovo.olauncher/com.android.launcher3.Launcher t53}
+      TaskRecord{1534d85c #145 A=com.android.wizard U=37 sz=4}
+        Run #4: ActivityRecord{1285315a u37 com.google.android.setupwizard/.WalledGardenActivity t145}
+        Run #3: ActivityRecord{100ec345 u37 com.android.settings/.wifi.WifiSetupActivity t145}
+        Run #2: ActivityRecord{159198f1 u37 com.google.android.setupwizard/.user.WelcomeUserActivity t145}
+        Run #1: ActivityRecord{1f510a0a u37 com.google.android.setupwizard/.WelcomeUserWrapper t145}
+      TaskRecord{535f0e7 #89 A=com.android.systemui U=0 sz=1}
+        Run #0: ActivityRecord{13675c5e u0 com.android.systemui/.recents.RecentsActivity t89}
+
+    mResumedActivity: ActivityRecord{119cebee u0 com.lenovo.olauncher/com.android.launcher3.Launcher t53}
+
+  Stack #1:
+    Task id #148
+      TaskRecord{abb5930 #148 I=com.android.settings/com.lenovo.usb.UsbPicker U=0 sz=1}
+      Intent { flg=0x10800000 cmp=com.android.settings/com.lenovo.usb.UsbPicker }
+        Hist #0: ActivityRecord{de79d10 u0 com.android.settings/com.lenovo.usb.UsbPicker t148}
+          Intent { flg=0x10800000 cmp=com.android.settings/com.lenovo.usb.UsbPicker }
+          ProcessRecord{1ca041d6 21437:com.android.settings/1000}
+
+    Task id #56
+      TaskRecord{1211c9a9 #56 A=com.android.settings U=0 sz=3}
+      Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.android.settings/.Settings (has extras) }
+        Hist #2: ActivityRecord{e46e514 u0 com.android.settings/.SubSettings t56}
+          Intent { act=android.intent.action.MAIN cmp=com.android.settings/.SubSettings (has extras) }
+          ProcessRecord{1ca041d6 21437:com.android.settings/1000}
+        Hist #1: ActivityRecord{9d04bba u0 com.android.settings/.SubSettings t56}
+          Intent { act=android.intent.action.MAIN cmp=com.android.settings/.SubSettings (has extras) }
+          ProcessRecord{1ca041d6 21437:com.android.settings/1000}
+        Hist #0: ActivityRecord{1cff9161 u0 com.android.settings/.Settings t56}
+          Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.android.settings/.Settings (has extras) }
+          ProcessRecord{1ca041d6 21437:com.android.settings/1000}
+
+    Task id #147
+      TaskRecord{1eba8b2e #147 A=com.lenovo.EngineeringCode.OffLineLog U=0 sz=1}
+      Intent { flg=0x10800000 cmp=com.lenovo.EngineeringCode/.OffLineLog }
+        Hist #0: ActivityRecord{17eb4835 u0 com.lenovo.EngineeringCode/.OffLineLog t147}
+          Intent { flg=0x10800000 cmp=com.lenovo.EngineeringCode/.OffLineLog }
+          ProcessRecord{34819b7 29594:com.lenovo.EngineeringCode/1000}
+
+    Task id #146
+      TaskRecord{1f6976cf #146 A=android.task.ideafriend U=0 sz=2}
+      Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.lenovo.ideafriend/.IdeafriendMainActivity (has extras) }
+        Hist #1: ActivityRecord{cf6b660 u0 com.lenovo.ideafriend/.contacts.activities.ContactEditorActivity t146}
+          Intent { act=android.intent.action.INSERT dat=content://com.android.contacts/contacts cmp=com.lenovo.ideafriend/.contacts.activities.ContactEditorActivity }
+          ProcessRecord{1725756a 27387:com.lenovo.ideafriend/u0a39}
+        Hist #0: ActivityRecord{2bb9865 u0 com.lenovo.ideafriend/.alias.PeopleActivity t146}
+          Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.lenovo.ideafriend/.alias.PeopleActivity (has extras) }
+          ProcessRecord{1725756a 27387:com.lenovo.ideafriend/u0a39}
+
+    Task id #133
+      TaskRecord{14945765 #133 A=com.google.android.music.task U=0 sz=1}
+      Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.music/.ui.HomeActivity (has extras) }
+        Hist #0: ActivityRecord{1016664d u0 com.google.android.music/com.android.music.activitymanagement.TopLevelActivity t133}
+          Intent { flg=0x14000000 cmp=com.google.android.music/com.android.music.activitymanagement.TopLevelActivity (has extras) }
+          ProcessRecord{3b9dab3 21288:com.google.android.music:ui/u0a69}
+
+    Task id #132
+      TaskRecord{12e82c3a #132 A=com.google.android.youtube U=0 sz=1}
+      Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.youtube/com.google.android.apps.youtube.app.honeycomb.Shell$HomeActivity (has extras) }
+        Hist #0: ActivityRecord{13fa082d u0 com.google.android.youtube/com.google.android.apps.youtube.app.WatchWhileActivity t132}
+          Intent { flg=0x14000000 cmp=com.google.android.youtube/com.google.android.apps.youtube.app.WatchWhileActivity (has extras) }
+          ProcessRecord{be63625 21131:com.google.android.youtube/u0a86}
+
+    Task id #131
+      TaskRecord{1930b0eb #131 A=com.lenovo.yogatab3pro U=0 sz=2}
+      Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.lenovo.yogatab3pro/.MainActivity (has extras) }
+        Hist #1: ActivityRecord{109638ea u0 com.lenovo.yogatab3pro/.MainMenuActivity t131}
+          Intent { cmp=com.lenovo.yogatab3pro/.MainMenuActivity }
+        Hist #0: ActivityRecord{9619e1 u0 com.lenovo.yogatab3pro/.MainActivity t131}
+          Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.lenovo.yogatab3pro/.MainActivity (has extras) }
+
+    Task id #68
+      TaskRecord{10651e48 #68 A=com.dolby.daxappUI U=0 sz=1}
+      Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.dolby.daxappUI/.MainActivity bnds=[700,481][1859,1640] (has extras) }
+        Hist #0: ActivityRecord{abd421e u0 com.dolby.daxappUI/.MainActivity t68}
+          Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.dolby.daxappUI/.MainActivity bnds=[700,481][1859,1640] (has extras) }
+
+    Task id #130
+      TaskRecord{1df804e1 #130 A=com.lenovopad.guide U=0 sz=1}
+      Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.lenovopad.guide/.activity.WelcomeActivity (has extras) }
+        Hist #0: ActivityRecord{c7efbb3 u0 com.lenovopad.guide/.activity.WelcomeActivity t130}
+          Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.lenovopad.guide/.activity.WelcomeActivity (has extras) }
+
+    Task id #129
+      TaskRecord{1b1cd206 #129 A=com.google.android.apps.photos U=0 sz=2}
+      Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.apps.photos/.home.HomeActivity (has extras) }
+        Hist #1: ActivityRecord{11aa1555 u0 com.google.android.apps.photos/.onboarding.IntroActivity t129}
+          Intent { cmp=com.google.android.apps.photos/.onboarding.IntroActivity }
+        Hist #0: ActivityRecord{a148d5f u0 com.google.android.apps.photos/.home.HomeActivity t129}
+          Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.apps.photos/.home.HomeActivity (has extras) }
+
+    Task id #128
+      TaskRecord{9e770c7 #128 A=com.android.calculator2 U=0 sz=1}
+      Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.android.calculator2/.Calculator (has extras) }
+        Hist #0: ActivityRecord{1c53da41 u0 com.android.calculator2/.Calculator t128}
+          Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.android.calculator2/.Calculator (has extras) }
+
+    Task id #127
+      TaskRecord{1cd1d6f4 #127 A=com.google.android.talk U=0 sz=3}
+      Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.talk/com.google.android.apps.hangouts.phone.BabelHomeActivity (has extras) }
+        Hist #2: ActivityRecord{1ad502b9 u0 com.android.settings/.ConfirmDeviceCredentialActivity t127}
+          Intent { act=android.app.action.CONFIRM_DEVICE_CREDENTIAL cmp=com.android.settings/.ConfirmDeviceCredentialActivity }
+        Hist #1: ActivityRecord{1a0e9a28 u0 com.google.android.gms/.auth.uiflows.addaccount.PreAddAccountActivity t127}
+          Intent { flg=0x2000000 cmp=com.google.android.gms/.auth.uiflows.addaccount.PreAddAccountActivity (has extras) }
+        Hist #0: ActivityRecord{1a142055 u0 com.google.android.talk/.SigningInActivity t127}
+          Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.talk/.SigningInActivity (has extras) }
+
+    Task id #126
+      TaskRecord{98f0e1d #126 A=com.google.android.apps.maps U=0 sz=1}
+      Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.apps.maps/com.google.android.maps.MapsActivity (has extras) }
+        Hist #0: ActivityRecord{aac2924 u0 com.google.android.apps.maps/com.google.android.maps.MapsActivity t126}
+          Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.apps.maps/com.google.android.maps.MapsActivity (has extras) }
+
+    Task id #63
+      TaskRecord{fa40892 #63 A=com.android.chrome U=0 sz=1}
+      Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.android.chrome/org.chromium.chrome.browser.document.ChromeLauncherActivity (has extras) }
+        Hist #0: ActivityRecord{17700e3f u0 com.android.chrome/org.chromium.chrome.browser.ChromeTabbedActivity t63}
+          Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x14002000 cmp=com.android.chrome/org.chromium.chrome.browser.ChromeTabbedActivity bnds=[1759,1342][2067,1514] (has extras) }
+
+    Task id #67
+      TaskRecord{16605263 #67 A=com.google.android.gm U=0 sz=2}
+      Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.gm/.ui.MailActivityGmail (has extras) }
+        Hist #1: ActivityRecord{3bb8eeb u0 com.google.android.gm/.welcome.SetupAddressesActivity t67}
+          Intent { cmp=com.google.android.gm/.welcome.SetupAddressesActivity (has extras) }
+        Hist #0: ActivityRecord{13ceda u0 com.google.android.gm/.welcome.WelcomeTourActivity t67}
+          Intent { flg=0x4000000 cmp=com.google.android.gm/.welcome.WelcomeTourActivity (has extras) }
+
+    Task id #66
+      TaskRecord{1baf6e60 #66 I=com.google.android.googlequicksearchbox/com.google.android.apps.gsa.searchnow.SearchNowActivity U=0 sz=2}
+      Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.googlequicksearchbox/com.google.android.apps.gsa.searchnow.SearchNowActivity (has extras) }
+        Hist #1: ActivityRecord{152de7c1 u0 com.google.android.googlequicksearchbox/com.google.android.sidekick.main.optin.NewOptInActivity t66}
+          Intent { flg=0x800000 cmp=com.google.android.googlequicksearchbox/com.google.android.sidekick.main.optin.NewOptInActivity (has extras) }
+        Hist #0: ActivityRecord{4b85da5 u0 com.google.android.googlequicksearchbox/com.google.android.apps.gsa.searchnow.SearchNowActivity t66}
+          Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.googlequicksearchbox/com.google.android.apps.gsa.searchnow.SearchNowActivity (has extras) }
+
+    Running activities (most recent first):
+      TaskRecord{abb5930 #148 I=com.android.settings/com.lenovo.usb.UsbPicker U=0 sz=1}
+        Run #8: ActivityRecord{de79d10 u0 com.android.settings/com.lenovo.usb.UsbPicker t148}
+      TaskRecord{1211c9a9 #56 A=com.android.settings U=0 sz=3}
+        Run #7: ActivityRecord{e46e514 u0 com.android.settings/.SubSettings t56}
+        Run #6: ActivityRecord{9d04bba u0 com.android.settings/.SubSettings t56}
+        Run #5: ActivityRecord{1cff9161 u0 com.android.settings/.Settings t56}
+      TaskRecord{1eba8b2e #147 A=com.lenovo.EngineeringCode.OffLineLog U=0 sz=1}
+        Run #4: ActivityRecord{17eb4835 u0 com.lenovo.EngineeringCode/.OffLineLog t147}
+      TaskRecord{1f6976cf #146 A=android.task.ideafriend U=0 sz=2}
+        Run #3: ActivityRecord{cf6b660 u0 com.lenovo.ideafriend/.contacts.activities.ContactEditorActivity t146}
+        Run #2: ActivityRecord{2bb9865 u0 com.lenovo.ideafriend/.alias.PeopleActivity t146}
+      TaskRecord{14945765 #133 A=com.google.android.music.task U=0 sz=1}
+        Run #1: ActivityRecord{1016664d u0 com.google.android.music/com.android.music.activitymanagement.TopLevelActivity t133}
+      TaskRecord{12e82c3a #132 A=com.google.android.youtube U=0 sz=1}
+        Run #0: ActivityRecord{13fa082d u0 com.google.android.youtube/com.google.android.apps.youtube.app.WatchWhileActivity t132}
+
+  mFocusedActivity: ActivityRecord{de79d10 u0 com.android.settings/com.lenovo.usb.UsbPicker t148}
+  mFocusedStack=ActivityStack{801ead2 stackId=0, 8 tasks} mLastFocusedStack=ActivityStack{801ead2 stackId=0, 8 tasks}
+  mSleepTimeout=false
+  mCurTaskId=148
+  mUserStackInFront={0=1, 37=0}
+  mActivityContainers={0=ActivtyContainer{0}A, 1=ActivtyContainer{1}A}
+
+ACTIVITY MANAGER RUNNING PROCESSES (dumpsys activity processes)
+  Isolated process list (sorted by uid):
+    Isolated # 0: ProcessRecord{1812e524 3532:WebViewLoader-x86_64/1037}
+
+  Process LRU list (sorted by oom_adj, 58 total, non-act at 12, non-svc at 12):
+    PERS #57: sys   F/ /P  trm: 0 3398:system/1000 (fixed)
+    PERS #56: pers  F/ /P  trm: 0 3548:com.android.systemui/u0a21 (fixed)
+    PERS #55: pers  F/ /P  trm: 0 3815:android.process.acore/u0a16 (fixed)
+    PERS #54: pers  F/ /P  trm: 0 3933:com.intel.thermal/1000 (fixed)
+    PERS #53: pers  F/ /P  trm: 0 3949:com.lenovo.multiwindow/1000 (fixed)
+    PERS #52: pers  F/ /P  trm: 0 3965:com.lenovo.smartsidebar/u0a81 (fixed)
+    PERS #51: pers  F/ /P  trm: 0 3975:com.dolby/1000 (fixed)
+    PERS #50: pers  F/ /P  trm: 0 3997:com.lenovo.fingerpaint/u0a63 (fixed)
+    PERS #49: pers  F/ /P  trm: 0 4014:com.android.phone/1001 (fixed)
+    Proc #30: pers  F/ /S  trm: 0 28020:android.process.media/u0a5 (core-service)
+    Proc #29: pers  F/ /S  trm: 0 28065:android.process.media/u37a5 (core-service)
+    Proc #18: pers  F/ /S  trm: 0 21951:com.google.android.gms/u37a8 (core-service)
+    Proc #13: pers  F/ /CE trm: 0 3838:com.google.android.gms/u0a8 (core-service)
+    Proc #17: fore  F/ /CE trm: 0 28413:com.lenovo.olauncher/u37a19 (launcher)
+    Proc # 0: fore  F/A/T  trm: 0 18666:com.lenovo.olauncher/u0a19 (launcher)
+    Proc #48: vis   F/ /IF trm: 0 4189:com.android.smspush/u0a84 (service)
+        com.android.smspush/.WapPushManager<=Proc{4014:com.android.phone/1001}
+    Proc #46: vis   F/ /IF trm: 0 27825:com.google.android.googlequicksearchbox:interactor/u0a36 (service)
+        com.google.android.googlequicksearchbox/com.google.android.voiceinteraction.GsaVoiceInteractionService<=Proc{3398:system/1000}
+    Proc #22: vis   F/ /IF trm: 0 4154:com.google.android.gms.persistent/u0a8 (service)
+        com.google.android.gms/com.google.android.location.fused.FusedLocationService<=Proc{3398:system/1000}
+    Proc # 4: vis   F/ /IF trm: 0 27848:com.google.android.inputmethod.latin/u0a62 (service)
+        com.google.android.inputmethod.latin/com.android.inputmethod.latin.spellcheck.AndroidSpellCheckerService<=Proc{3398:system/1000}
+    Proc #47: prcp  F/S/IF trm: 0 4744:com.lenovo.powersetting:service/1000 (fg-service)
+    Proc #45: prcp  F/S/IF trm: 0 28182:com.lenovo.powersetting:service/u37s1000 (fg-service)
+    Proc #28: svc   B/ /S  trm: 0 27800:com.lenovo.updateassist/u0a35 (started-services)
+    Proc #27: svc   B/ /S  trm: 0 27813:com.lenovo.updateassist/u37a35 (started-services)
+    Proc #26: svc   B/ /S  trm: 0 21852:com.lenovo.weather.theme.dreamlandPad/u37a27 (started-services)
+    Proc #25: svc   B/ /S  trm: 0 20953:com.lenovo.weather.theme.dreamlandPad/u0a27 (started-services)
+    Proc #24: svc   B/ /S  trm: 0 25696:com.lenovo.lsf.device/u0a13 (started-services)
+    Proc #19: svc   B/ /S  trm: 0 25930:com.lenovo.lsf.device/u37a13 (started-services)
+    Proc #15: svc   B/ /S  trm: 0 22000:com.google.android.gms.persistent/u37a8 (started-services)
+    Proc # 2: svc   B/ /S  trm: 0 3744:com.google.process.gapps/u0a8 (started-services)
+    Proc # 1: prev  B/ /LA trm: 0 21437:com.android.settings/1000 (previous)
+    Proc #44: svcb  B/ /S  trm: 0 26075:com.dolby/u37s1000 (started-services)
+    Proc #43: svcb  B/ /S  trm: 0 26390:com.lenovo.smartswitch/u37s1000 (started-services)
+    Proc #42: svcb  B/ /S  trm: 0 26411:com.intel.widi.uibc/1000 (started-services)
+    Proc #41: svcb  B/ /S  trm: 0 27271:com.intel.widi.uibc/u37s1000 (started-services)
+    Proc #40: svcb  B/ /S  trm: 0 27531:com.lenovo.multiwindow/u37s1000 (started-services)
+    Proc #39: svcb  B/ /S  trm: 0 27629:com.lenovo.ideafriend/u37a39 (started-services)
+    Proc #38: svcb  B/ /S  trm: 0 27719:com.lenovo.smartswitch/1000 (started-services)
+    Proc #37: svcb  B/ /S  trm: 0 27736:com.lenovo.paperdisplay/u0a73 (started-services)
+    Proc #36: svcb  B/ /S  trm: 0 27757:com.lenovo.paperdisplay/u37a73 (started-services)
+    Proc #35: svcb  B/ /S  trm: 0 27784:com.lenovo.notifier/u0a22 (started-services)
+    Proc #34: svcb  B/ /S  trm: 0 27890:com.lenovo.lsf/u0a14 (started-services)
+    Proc #33: svcb  B/ /S  trm: 0 27911:com.lenovo.lsf/u37a14 (started-services)
+    Proc #32: svcb  B/ /S  trm: 0 27927:com.lenovo.videoplayer/u0a65 (started-services)
+    Proc #31: svcb  B/ /S  trm: 0 27958:com.lenovo.notifier/u37a22 (started-services)
+    Proc # 9: cch   B/ /S  trm: 0 21310:com.google.android.music:main/u0a69 (cch-started-services)
+    Proc # 8: cch   B/ /Ca trm: 0 27467:com.google.android.tts/u37a58 (cch-client-act)
+        com.google.android.tts/.service.GoogleTTSService<=Proc{27364:com.google.android.setupwizard/u37a33}
+    Proc # 6: cch   B/ /CA trm: 0 27364:com.google.android.setupwizard/u37a33 (cch-act)
+    Proc # 5: cch   B/ /S  trm: 0 27387:com.lenovo.ideafriend/u0a39 (cch-started-ui-services)
+    Proc # 3: cch   B/ /CA trm: 0 29594:com.lenovo.EngineeringCode/1000 (cch-act)
+    Proc #10: cch+1 B/ /CA trm: 0 21288:com.google.android.music:ui/u0a69 (cch-act)
+    Proc # 7: cch+1 B/ /CA trm: 0 27081:com.android.settings/u37s1000 (cch-act)
+    Proc #14: cch+2 B/ /CE trm: 0 27218:com.google.process.gapps/u37a8 (cch-empty)
+    Proc #12: cch+2 B/ /CE trm: 0 28468:com.google.android.talk/u0a60 (cch-empty)
+    Proc #11: cch+3 B/ /CA trm: 0 21131:com.google.android.youtube/u0a86 (cch-act)
+    Proc #20: cch+4 B/ /CE trm: 0 28395:com.google.android.partnersetup/u37a11 (cch-empty)
+    Proc #16: cch+4 B/ /CE trm: 0 28372:com.google.android.googlequicksearchbox:search/u37a36 (cch-empty)
+    Proc #23: cch+6 B/ /CE trm: 0 28332:com.google.android.partnersetup/u0a11 (cch-empty)
+    Proc #21: cch+6 B/ /CE trm: 0 28349:com.lenovo.gallery/u0a18 (cch-empty)
+
+  Time since processes crashed:
+    Process com.lenovo.multiwindow uid 3601000: last crashed +3h55m39s639ms ago
+    Process com.android.bluetooth uid 2001002: last crashed +4h12m18s689ms ago
+
+  mStartedUsers:
+    User #0: mState=RUNNING
+    User #37: mState=RUNNING
+  mStartedUserArray: [0, 37]
+  mUserLru: [37, 0]
+  mHomeProcess: ProcessRecord{c61eb5b 18666:com.lenovo.olauncher/u0a19}
+  mPreviousProcess: ProcessRecord{1ca041d6 21437:com.android.settings/1000}
+  mConfiguration: {1.0 ?mcc?mnc zh_CN ?layoutDir sw800dp w1280dp h727dp 320dpi xlrg land finger -keyb/v/h -nav/h s.6}
+  mWakefulness=Awake
+  mSleeping=false mLockScreenShown=LOCK_SCREEN_HIDDEN
+  mShuttingDown=false mRunningVoice=false mTestPssMode=false

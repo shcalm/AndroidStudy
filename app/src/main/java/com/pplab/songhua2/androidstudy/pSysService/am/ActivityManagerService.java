@@ -4,6 +4,7 @@ import com.pplab.songhua2.androidstudy.pBinder.Binder;
 import com.pplab.songhua2.androidstudy.pContext.ComponentName;
 import com.pplab.songhua2.androidstudy.pContext.Context;
 import com.pplab.songhua2.androidstudy.pContext.Intent;
+import com.pplab.songhua2.androidstudy.pSysService.pm.UserManager;
 import com.pplab.songhua2.androidstudy.pUtil.RemoteException;
 
 /**
@@ -13,6 +14,8 @@ public class ActivityManagerService extends  ActivityManagerNative{
 
 
     final ActiveService mService;
+    public Singleton mStartedUsers;
+
     public ActivityManagerService(Context contet){
         mService = new ActiveService(this);
     }
@@ -29,4 +32,14 @@ public class ActivityManagerService extends  ActivityManagerNative{
         }
     }
 
+    public ProcessRecord getRecordForAppLocked(IApplicationThread caller) {
+        return null;
+    }
+
+    public UserManager getUserManagerLocked() {
+        return null;
+    }
+
+    public NeededUriGrants checkGrantUriPermissionFromIntentLocked(int callingUid, Object packageName, Intent service, void flags, Object o, String userId) {
+    }
 }
